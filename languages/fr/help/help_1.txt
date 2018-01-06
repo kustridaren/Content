@@ -9,7 +9,7 @@ Utilisez les icônes de chaque côté de cet écran pour accéder aux différent
 
 Millénaire ajoute des <darkblue>villages<black> de différentes cultures à Minecraft. Ces villages sont générés au hasard dans différents biomes. Ils sont de styles différents et ne proposent pas tous les mêmes produits, mais ils ont tous un chef et des villageois qui construisent de nouveaux bâtiments, commercent avec vous et peuvent vous apprécier ou non suivant vos actions (voir la section « réputation »).
 
-Chaque village est construit autour d'un bâtiment central (qui peut être un fort, un monastère, un palais...). Dans ce bâtiment, vous trouverez de nombreux panneaux vous renseignant sur le village. Faites un <darkblue>clic-droit<black> sur un panneau pour afficher plus d'information.
+Chaque village est construit autour d'un bâtiment central (qui peut être un fort, un monastère, un palais...). Dans ce bâtiment, vous trouverez de nombreux panneaux vous renseignant sur le village. Faites un <darkblue>clic-droit<black> sur un panneau pour afficher plus d'informations.
 
 Les <darkblue>bâtiments isolés<black> par contre ne s’étendent pas. Ils peuvent être vides (avec juste des objets à trouver dans des coffres), occupés par des villageois pacifiques qui peuvent commercer avec vous, ou être occupés par des villageois hostiles qui vous attaqueront.
 

@@ -207,20 +207,20 @@ poems_0_description_refuse=J'écrirais un poème sur l'égoïsme des hommes.
 
 
 startingtrader_0_label=Le marchand ambitieux
-startingtrader_0_description=Hey! Vous êtes un marchand? Vous cherchez une bonne affaire?<ret>C'est dur de gagner sa vie dans les affaires. Acheter bon marché, vendre cher. Hahaha!<ret>Et pourtant, même un fermier est plus respecté que moi. Mais j'ai des projets de commerce avec des nouveaux villages, du commerce de luxe! Il me faut juste un stock pour débuter.<ret><ret>Il me faudrait deux diamants et huit lingots d'or. Vous pourriez me vendre ça?
-startingtrader_0_description_success=Bien, très bien... Ca me conviendra parfaitement! Doumo arigatou! Merci beaucoup!
+startingtrader_0_description=Hey ! Vous êtes un marchand ? Vous cherchez une bonne affaire ? <ret>C'est dur de gagner sa vie dans les affaires. Acheter bon marché, vendre cher. Hahaha !<ret>Et pourtant, même un fermier est plus respecté que moi. Mais j'ai des projets de commerce avec des nouveaux villages, du commerce de luxe! Il me faut juste un stock pour débuter.<ret><ret>Il me faudrait deux diamants et huit lingots d'or. Vous pourriez me vendre ça?
+startingtrader_0_description_success=Bien, très bien... Ca me conviendra parfaitement ! Doumo arigatou ! Merci beaucoup !
 startingtrader_0_description_refuse=Vous n'y connaissez rien en affaire!
 
 
 architectwife_0_label=Le repas du mari
-architectwife_0_description=Mon mari l'architecte $architect_villagername$ meurt de faim et j'ai oublié son repas! Pouvez-vous lui apporter ce poisson?
+architectwife_0_description=Mon mari l'architecte $architect_villagername$ meurt de faim et j'ai oublié son repas ! Pouvez-vous lui apporter ce poisson ?
 architectwife_0_description_success=Merci, citoyen!
 architectwife_0_description_refuse=Vous n'êtes pas très aimable.
-architectwife_1_label=J'ai faim!
+architectwife_1_label=J'ai faim !
 architectwife_1_description=Ma femme a encore oublié mon repas! Ah, les femmes!
 architectwife_1_description_success=C'était très aimable de votre part.
 architectwife_1_description_refuse=Il ne faut jamais faire confiance aux étrangers.
-architectwife_1_description_timeup=Vous n'avez pas apportez le repas à temps. Les villageois de $architect_villagename$ n'oublieront pas.
+architectwife_1_description_timeup=Vous n'avez pas apporté le repas à temps. Les villageois de $architect_villagename$ n'oublieront pas.
 architectwife_1_listing=Donnez son repas à $architect_villagername$ du village de $architect_villagename$.
 
 lumbermanwine_0_label=J'ai soif!

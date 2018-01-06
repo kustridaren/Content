@@ -3,7 +3,7 @@ version:3.4
 
 <darkblue>Les villageois parlent dans une autre langue que la mienne. Est-ce normal ?
 
-Les villageois de Millénaire parlent tous dans « leur » langue, comme l’hindi pour les indiens ou le français pour les normands. Si vous jouez dans une langue différente, vous devrez « apprendre » leur langue en interagissant avec eux ( commerce, quêtes…). Au fur et à mesure que vous l’apprenez, Millénaire vous fournira des traductions, d’abord des noms de bâtiments, puis des types de villageois, et enfin des dialogues.
+Les villageois de Millénaire parlent tous dans « leur » langue, comme l’hindi pour les indiens ou le français pour les normands. Si vous jouez dans une langue différente, vous devrez « apprendre » leur langue en interagissant avec eux (commerce, quêtes…). Au fur et à mesure que vous l’apprenez, Millénaire vous fournira des traductions, d’abord des noms de bâtiments, puis des types de villageois, et enfin des dialogues.
 
 <darkblue>Mon village normand a besoin de colombages et je ne peux pas en fabriquer, que faire ?
 
@@ -21,9 +21,9 @@ Oui. Le territoire du village leur appartient ; regardez la carte pour voir ses 
 
 Oui, les villageois renaissent chaque nuit, peut après le coucher du soleil. Evitez simplement de dormir tout de suite à la nuit tombée.
 
-<darkblue>Mes villageois n’ont pas d’enfants  ou leurs enfants ne grandissent pas, que se passe t’il ?
+<darkblue>Mes villageois n’ont pas d’enfants ou leurs enfants ne grandissent pas, que se passe-t-il ?
 
-Les enfants peuvent naître quand un couple est chez lui pendant la nuit. De même, ils grandissent la nuit chez eux. Certains aliments (boissons, sucrerie) augmentent les chances de naissance et d’autre (pain, céréales) la vitesse de croissance des enfants.
+Les enfants peuvent naître quand un couple est chez lui pendant la nuit. De même, ils grandissent la nuit chez eux. Certains aliments (boissons, sucreries) augmentent les chances de naissance et d’autre (pain, céréales) la vitesse de croissance des enfants.
 
 <darkblue>Un bâtiment du village a été abîmé, vont-ils le réparer ?
 

@@ -9,7 +9,7 @@ Qila : Fort. Cette petite tour de brique sera peut à peut transformer en puissa
 NEW_PAGE
 Habitations:
 
-Kisan ka Ghar : Maison paysanne. Simple bâtiment en briques séchées au soleil, cette modeste demeure peut se développer pour accueillir un enclos à poulet et un toi en terrasse d’où admirer le paysage.
+Kisan ka Ghar : Maison paysanne. Simple bâtiment en briques séchées au soleil, cette modeste demeure peut se développer pour accueillir un enclos à poulet et un toit en terrasse d’où admirer le paysage.
 
 Lakarhara ka Ghar : Maison de bûcheron. Construite en bois par le bûcheron, cette petite hutte sera graduellement étendue en briques cuites de meilleure allure.
 
@@ -29,7 +29,7 @@ Bâtiments inhabités:
 
 Inta bhatta : Four à  briques. Cet endroit essentiel à tout village indien sert à préparer des briques en les laissant sécher au soleil, ou après l’ajout de four, en les cuisant.
 
-Kunja : Bosquet. Soigneusement entretenus par les bûcherons, ces bosquets servent de source de bois au village. La terre riche et les soins du bûcheron aident les arbres à y repousser beaucoup plus vite que normal.
+Kunja : Bosquet. Soigneusement entretenus par les bûcherons, ces bosquets servent de source de bois au village. La terre riche et les soins du bûcheron aident les arbres à y repousser beaucoup plus vite que la normale.
 
 Puraalekhagar : Archive du temple. Les antécédents et les activités de tous les villageois sont enregistrés ici. C’est sûrement pour leur bien.
 
@@ -37,6 +37,6 @@ Dhaan : Rizière. Rien n’est plus essentiel à l’alimentation des villageois
 
 Masaalaa udyaana : Jardin à épices. Sans épices, rien n’a de goût pour un vrai indien. Heureusement que le curcuma pousse bien ici !
 
-Gannaa baagaana : Plantation de sucre. Essentiel à la fabrication des délicieux rasgullas,  le sucre de canne est récolté ici.
+Gannaa baagaana : Plantation de sucre. Essentiel à la fabrication des délicieux rasgullas, le sucre de canne est récolté ici.
 
-Gaanv ka Mandir :  Temple du village. Ce beau bâtiment témoigne de la piété des villageois, ou alternativement de l’influence du prêtre. Trois statues créés par le sculpteur orne un temple fini.
+Gaanv ka Mandir : Temple du village. Ce beau bâtiment témoigne de la piété des villageois, ou alternativement de l’influence du prêtre. Trois statues créées par le sculpteur orne un temple fini.

@@ -3,7 +3,7 @@ Millénaire: habitants normands
 
 Chefs de village:
 
-Chevalier: Vit dans le fort, du quel il sort pour patrouiller sur ses terres et aller à la taverne. Attention lorsque vous le rencontrez lors d'une bataille! Chef des villages militaires et des Gros Bourgs.
+Chevalier: Vit dans le fort, duquel il sort pour patrouiller sur ses terres et aller à la taverne. Attention lorsque vous le rencontrez lors d'une bataille ! Chef des villages militaires et des Gros Bourgs.
 
 Abbé: Vit à l'abbaye d'où il supervise le travail des moines. Chef des hameaux et des villages ecclésiastiques.
 
@@ -21,7 +21,7 @@ Hommes:
 
 Fermier: Vit dans une ferme, où il fait pousser et récolte les cultures.
 
-Bûcheron: Vit dans une cabane de bûcheron. Ramasse le bois et les pommes des arbres des bosquets et plante de nouvelles pousses pour les renouveller.
+Bûcheron: Vit dans une cabane de bûcheron. Ramasse le bois et les pommes des arbres des bosquets et plante de nouvelles pousses pour les renouveler.
 
 Garde: Vit dans une maison de gardien. Ne fait rien mais boit du cidre et prie très occasionnellement, sauf si un villageois est attaqué. Il n'est pas bon de s'en faire un ennemi, surtout s'il est armé d'un redoutable sabre Normand.
 

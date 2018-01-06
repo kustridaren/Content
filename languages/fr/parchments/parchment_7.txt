@@ -1,7 +1,7 @@
 version:1.1.4
 Millénaire: Objets indiens
 
-Denier. Pour des raisons que les historiens ne peuvent expliquer, les villageois indiens utilisent des deniers, comme les villages normands. Trois types de pièces existes: bronze, argent valant 64 bronze, et or valant 64 argent.
+Denier. Pour des raisons que les historiens ne peuvent expliquer, les villageois indiens utilisent des deniers, comme les villages normands. Trois types de pièces existent: bronze, argent valant 64 bronze, et or valant 64 argent.
 NEW_PAGE
 Aliments
 
@@ -21,7 +21,7 @@ Construction & décoration
 
 Brique humide. Premier stade de la fabrication des briques, les briques humides sont déposées par les paysans près du four à brique pour sécher au soleil.
 
-Brique de terre. Obtenues en fessant sécher des briques humides au soleil, les briques de terre sont le matériau de base des villages indiens.
+Brique de terre. Obtenues en faisant sécher des briques humides au soleil, les briques de terre sont le matériau de base des villages indiens.
 
 Briques cuites. Après cuisson dans un four, les briques de terre deviennent des briques cuites, plus résistantes et plus esthétiques avec leur badigeon à la chaux.
 
@@ -33,8 +33,8 @@ Parchemins
 
 Villageois indiens. Un parchemin décrivant les différents types de villageois indiens, ceux qui travaillent comme ceux qui regardent les autres travailler.
 
-Bâtiments indiens. Liste tous les bâtiments fabriqués par les villageois indiens, depuis la hutte du bûcheron jusqu’à la forteresse du généra rajput.
+Bâtiments indiens. Liste tous les bâtiments construits par les villageois indiens, depuis la hutte du bûcheron jusqu’à la forteresse du général rajput.
 
-Objets indiens.  Est-ce nécessaire ?
+Objets indiens. Est-ce nécessaire ?
 
 Parchemin indien complet : Le contenu des trois précédents, en un rouleau compact pour un transport plus facile.
