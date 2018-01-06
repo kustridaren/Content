@@ -63,3 +63,27 @@ keeperTropical_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon ti
 keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Greetings traveller, I wonder how you ended up in this faraway place.
 keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Hindi' zoun se afth th gh. / It's so hot here. I can't understand why those Hindis live in these lands.
 keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / Have you ever seen those strange Mayas? Their buildings look like they could collapse any second.
+
+//Team's changes
+villager.greeting=Kalós ílthate sto chorió mas, $name! / Welcome to the village, $name!
+
+lumberman_byzantine.BringBackResourcesHome=As elpísoume óti aftó tha eínai arketó gia na evdokimísei to chorió! / Hopefully this will be enough for the village to thrive!
+lumberman_byzantine.BringBackResourcesHome=Eímai polý epitychiménos xylourgós, i apografí mou eínai gemáti me koútsoura! / I am a very successful lumberman, my inventory is filled with logs!
+lumberman_byzantine.BringBackResourcesHome=Férno pollá déntra allá den eínai variá gia kápoio lógo. / I am carrying many trees but they aren't heavy for some reason.
+lumberman_byzantine.BringBackResourcesHome=Aftí ítan mia kalí douleiá. / That was a job well done.
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / One more tree down, more wood for the village!
+lumberman_byzantine.ChopTrees=$name, échete kópsei poté éna déntro prin? / $name, have you ever chopped down a tree before?
+lumberman_byzantine.ChopTrees=Párte to déntro Choppa! / Get to the Choppa tree!
+lumberman_byzantine.ChopTrees=Pethaínoun déntro pethaínoun! CHACHACHA! Kaloúpi! Kaloúpi! Kaloúpi! CHA-O, Geia sou, $name! Típota ... paráxeno ... symvaínei edó.! / Die tree die! HAHAHA! Die! Die! Die! Ha- Oh, hi there $name! Nothing.. strange... happening here.
+lumberman_byzantine.ChopTrees=Den thélo na se skotóso, allá prépei na ... Antío déntro! / I don't want to kill you, but I have to... Goodbye tree!
+lumberman_byzantine.ChopTrees=Échete anarotitheí poté giatí ta temachisména déntra ftánoun edó, ónoma $? Eínai polý períergo. Ó, ti ki an káno, pántote epipléoun kai prépei na spáso to déntro pros ta páno lígo sigá, eínai énas tétoios pónos.! / Have you ever wondered why chopped down trees float here, $name? It's very strange. No matter what I do, they always float and I have to break the tree upward bit by bit, it's such a pain.
+lumberman_byzantine.GatherGoods=Geia sou $name! Min to paírnete! / Hey $name! Don't take that!
+lumberman_byzantine.GatherGoods=Ta déntra megálosan kalá aftí ti forá, tósa pollá koútsoura kai fytá. / The trees grew well this time, so many logs and saplings.
+lumberman_byzantine.GatherGoods=Elpízo óti to chorió tha chreiasteí óla aftá ta koútsoura. / I hope the village needs all of these logs.
+lumberman_byzantine.GatherGoods=Aftó ítan éna megálo déntro! Tóra to chorió boreí na chrisimopoiísei ta koútsourá tou. / That was one big tree! Now the village can use its logs.
+lumberman_byzantine.GatherGoods=Koitáxte óla aftá ta néa kormoús kai ta fytá pou píra apó tin kopí ton déntron! / Look at all of these new logs and saplings I got from chopping down the trees!
+lumberman_byzantine.PlantSaplings=Aftá ta fytá eínai tóso mikrá, merikés forés den boró na pistépso óti tha gínoun tóso megála. / These saplings are so small, sometimes I can't believe that they will become so big.
+lumberman_byzantine.PlantSaplings=Eísai tóso charitoméno mikrófyllo, schedón me afínei na xecháso óti tha se kópso ótan megalóseis. / You're so cute little sapling, almost lets me forget I'm going to chop you down when you grow up.
+lumberman_byzantine.PlantSaplings=$name, thélete na fytépsete éna fytó? / $name, do you want to plant a sapling?
+lumberman_byzantine.PlantSaplings=Ta déntra megalónoun tóso grígora edó, se líges méres gyrízoun apó aftó to mikroskopikó déntro méchri na eínai éna gemáto déntro. / Trees grow so fast here, in a few days they turn from this tiny sapling to being a full tree.
+lumberman_byzantine.PlantSaplings=I fýtefsi eínai i efkolóteri douleiá, to móno pou prépei na káno eínai na ta topothetíso sto édafos. / Planting is the easiest job, all I have to do is place them on the ground.
