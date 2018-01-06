@@ -1,9 +1,1 @@
 native:Oldwomaniqik Tupiq;name_en:Old Woman's Hut;name_fr:enfrancais;around:4;startLevel:-1;orientation:3;width:10;length:27;female:inuit_old_woman
-
-weight:5
-
-biome:taiga
-biome:tundra
-biome:ice plains
-
-centre:oldwoman

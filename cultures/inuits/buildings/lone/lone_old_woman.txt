@@ -1,0 +1,11 @@
+name:Old Woman's Hut
+weight:5
+radius:35
+
+//1.7 Biomes
+biome:tundra
+biome:ice plains
+biome:taiga
+
+//starting buildings:
+centre:oldwoman
