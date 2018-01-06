@@ -435,24 +435,24 @@ newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,w
 v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, my daughter, are you peaceful at mind?
 v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Father $targetlastname, I am not at peace, ever since we arrived here I feel there is something different.
 v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Child, many of us feel like there is something different here.
-v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
 v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / All we can do is pray since God has a plan for us.
 
 newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, my son, are you peaceful at mind?
 v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Father $targetlastname, I am not at peace, ever since we arrived here I feel there is something different.
 v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Child, many of us feel like there is something different here.
-v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
 v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / All we can do is pray since God has a plan for us.
 
-newchat;key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
 v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Father $targetlastname, when I was praying I saw some strange symbols.
 v2;30;Paidí, ti sou édeixe o Theós?/ Child, what did God show you?
 v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Father, the symbols were "Ticlon". Do you know what they mean?
 v2;90;O Theós doulévei me mystiriódi trópo / God works in mysterious ways.
  
 //Remove this if we add the Seljuks
-newchat;key:seljuks,v1:adult,v2:adult,weight:10
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
 v1;0;Échete akoúsei gia tous Seljuks apó ti stigmí pou ftásame edó? / Have you heard about the Seljuks since we arrived here?
 v2;30;Óchi, den to écho nomísei óti írthan mazí mas se aftí ti gi? / No, I have not, did you think they came with us to this land?
 v1;60;Amfivállo, échoume ídi akoúsei apó anthrópous pou den gnorízame óti ypírchan. / I doubt it, we have already heard from people that we didn't know existed.
@@ -461,7 +461,7 @@ v1;120;Échoume akóma tous Normandoús na antimetopísoun. / We still have the 
 v2;150;Loipón, eímaste Romaíoi! Boroúme éfkola na nikísoume tétoious epidromeís, sti Rómi! / Well, we are Romans! We can easily defeat such raiders, To Rome!
 v1;165;Sti Rómi! / To Rome!
 
-newchat;key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+newchat;key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
 v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ah, who doesn't want fresh, yummy bread from the wheat farm?
 v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / You do know that we need a bakery in order to turn the wheat into bread right?
 v1;60;Prépei na me gelás. Tóra tha petháno. / You've got to be kidding me. Now I'm going to starve.
@@ -470,13 +470,13 @@ v1;120;To chreiázomai perissótero apó eséna! / I need it more than you!
 v2;150;Den xéro giatí sas miláo! / I don't know why I talk to you!
 v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / We need a bakery, that's what matters.
 
-newchat:key:normans,v1:adult,v2:adult,weight:6
+newchat;key:normans,v1:adult,v2:adult,weigth:6
 v1;0;Akoúsate gia to kontinó chorió Norman? / Did you hear about the Norman village nearby?
 v2;30;Aftó den eínai kaló, thymámai óti synéchizan na epitíthentai sti nótia Italía protoú ftásoume edó. / That's not good, I remember that they kept attacking Southern Italy before we came here.
 v1;60;As elpísoume óti den tha mas epitethoún. / Let's hope they won't raid us.
 v2;90;Elpízo kai egó. / I hope that too.
 
-newchat:key:constantinople,v1:adult,v2:adult,weight:9
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
 v1;0;Anarotiémai ti synévi stin Konstantinoúpoli? / I wonder what happened to Constantinople?
 v2;30;Nomízo óti írthe edó mazí mas se aftí ti néa gi. / I think it came here with us to this new land.
 v1;60;Giatí to pistéveis aftó? / Why do you think that?
@@ -492,7 +492,7 @@ v2;330;Loipón, nai, allá akóma ki an i Konstantinoúpoli den eínai edó. Pr�
 v1;360;Tóra boró na symfoníso mazí sas gia aftó! / Now I can agree with you about that!
 v2;390;Máios Rómi diarkeí gia pánta! / May Rome last forever!
 
-newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+newchat;key:baron1,v1:adult,v1:vtype:baron_byzantine,v2:adult,v2:male,v2:notvtype:pastor_byzantine,weigth:10
 v1;0;Óra na plirósete tous fórous sas. / Time for you to pay your taxes.
 v2;30;Lypámai, allá den ímoun se thési na synkentróso arketoús pórous. / I'm sorry but I haven't been able to get enough resources.
 v1;60;Thélete na sas ekdióxo apó to chorió? / Do you want me to expel, you imbecile, from the village?
@@ -500,7 +500,7 @@ v2;80;Ochi... / No...
 v1;90;Sti synécheia epistrépste me tous fórous sas TORA! / Then come back with your taxes, NOW!
 v2;120;Entáxei entáxei. / Okay, okay.
 
-newchat:key:inuits,v1:adult,v2:adult,weight:10
+newchat;key:inuits,v1:adult,v2:adult,weigth:10
 v1;0;Norítera, miloúsa me énan vyzantinó émporo kai mou eípe gia choriá makriná sto chióni. / Earlier, I was talking to a Byzantine trader and he told me about villages far away in the snow.
 v2;30;Choriá sto chióni? / Villages in the snow? 
 v1;60;Nai, onomázontai "Inuits". / Yeah, they are called "Inuits".
@@ -511,8 +511,8 @@ v1;180;Óloi moirástikan ta pánta exísou. Ékane polý dýskoli ti diapragmá
 v2;210;Kakí émporos. Touláchiston eínai píso sti Romaïkí Aftokratoría, makriá apó aftoús tous várvarous. / Poor trader. At least he is back in the Roman Empire, away from those barbarians.
 v1;240;I Romaïkí Aftokratoría eínai i kalýteri gi gia empório! / The Roman Empire is the best land to trade!
 
-newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:tavernbyzantine,weigth:20
 v1;0;Geiá sou! Den faínetai na eíste polý efcharistiménoi símera / Hello! You don't seem to be very happy today.
 v2;30;Nai, den ypárchei tavérna gia na pioúme. / Yeah, there is no tavern for us to drink at.
-v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+v1;60;Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
 v2;90;An móno... / If only...
