@@ -292,3 +292,404 @@
 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
 	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
 
+6.0.1 05-01-2018 19:31:27 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 19:31:30 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 19:31:34 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@270df931: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3dcb08fc: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@463a0ff: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3aa9f6df: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3caccc73: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@17acca1d: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@128d2224: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 19:31:34 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@676731a4: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 19:31:34 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 19:31:34 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 19:31:34 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 19:31:35 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 20:13:37 Exception, printing stack:
+6.0.1 05-01-2018 20:13:37 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-320_75_-507_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 20:13:37 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-320_75_-507_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 20:24:07 Exception, printing stack:
+6.0.1 05-01-2018 20:24:07 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 21:18:12 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 21:36:54 Exception, printing stack:
+6.0.1 05-01-2018 21:36:54 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-204_70_-94_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 21:36:54 Exception, printing stack:
+6.0.1 05-01-2018 21:36:54 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\236_67_39_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 21:36:55 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\236_67_39_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 21:36:55 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-204_70_-94_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 21:40:24 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 21:40:29 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 21:40:40 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 21:40:40 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3dcb08fc: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 21:40:40 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@463a0ff: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 21:40:40 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@e311657: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 21:40:40 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3caccc73: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 21:40:40 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@17acca1d: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 21:40:40 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@128d2224: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 21:40:40 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 21:40:41 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 21:40:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@676731a4: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 21:40:42 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 21:40:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3df2b66f: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 21:40:42 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 21:40:42 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 21:40:42 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 21:40:43 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 21:48:21 Exception, printing stack:
+6.0.1 05-01-2018 21:48:21 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 21:55:00 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 22:01:35 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 22:01:39 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 22:01:44 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@23d4de02: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3aa9f6df: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3caccc73: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3df2b66f: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@4c7f7fee: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3798f847: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@69ac1501: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:01:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@41c59795: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:01:44 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:01:44 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 22:01:44 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 22:01:44 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 22:02:03 Exception, printing stack:
+6.0.1 05-01-2018 22:02:03 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\236_67_39_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 22:46:25 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 22:46:29 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 22:46:38 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:46:38 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@4c7f7fee: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:46:38 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3798f847: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:46:38 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@69ac1501: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:46:38 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@f559dd2: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:46:38 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@6241da92: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:46:38 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@45756e6: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:46:38 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 22:46:39 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@46ed92c5: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:46:39 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:46:39 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@65f52cc7: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:46:39 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:46:39 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 22:46:39 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 22:46:39 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 22:46:51 Exception, printing stack:
+6.0.1 05-01-2018 22:46:51 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\37_75_-144_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 22:46:51 Exception, printing stack:
+6.0.1 05-01-2018 22:46:51 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 22:46:51 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\37_75_-144_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 22:46:51 Exception, printing stack:
+6.0.1 05-01-2018 22:46:51 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-204_70_-94_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 22:49:06 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 22:54:35 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 22:54:39 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 22:54:44 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:54:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3798f847: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:54:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@69ac1501: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:54:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@41c59795: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:54:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@6241da92: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:54:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@45756e6: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:54:44 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@46ed92c5: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:54:44 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:54:45 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 22:54:45 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@65f52cc7: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:54:45 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:54:45 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@90cefa1: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:54:45 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:54:45 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 22:54:45 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 22:54:45 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 22:54:57 Exception, printing stack:
+6.0.1 05-01-2018 22:54:57 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\236_67_39_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 22:57:33 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 22:57:37 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 22:57:41 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@1ad01195: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@11651e84: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@7faebeca: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@e311657: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@463da2d1: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@23d4de02: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3aa9f6df: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:57:42 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3caccc73: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:57:42 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:57:42 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 22:57:42 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 22:57:42 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 22:58:24 Exception, printing stack:
+6.0.1 05-01-2018 22:58:24 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\37_75_-144_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 22:59:41 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 22:59:45 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 22:59:49 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:59:49 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@e311657: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:59:49 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@463da2d1: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:59:49 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@23d4de02: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 22:59:49 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@128d2224: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 22:59:49 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@676731a4: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:59:49 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3df2b66f: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 22:59:49 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 22:59:50 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 22:59:50 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@4c7f7fee: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:59:50 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:59:50 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3798f847: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 22:59:50 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 22:59:50 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 22:59:50 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 22:59:50 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 23:00:01 Exception, printing stack:
+6.0.1 05-01-2018 23:00:01 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-320_75_-507_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 23:00:45 Exception, printing stack:
+6.0.1 05-01-2018 23:00:45 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 23:01:44 Starting new session. Mods: examplemod 
+6.0.1 05-01-2018 23:01:48 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 05-01-2018 23:01:52 MAJOR: null: Loading language: en_us
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@7c7ab7dd: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@53cf212d: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@20cb4fa0: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v2:90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / But what can I do? My life here will forever be different here.
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@78a6bea1: Could not recognise key weight in dialogue declaration key:ticlon,v1:adult,v1:novtype:patriarch_byzantine-pastor_byzantine,v2:vtype:patriarch_byzantine-pastor_byzantine,weight:1
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: Unknown v1 setting in dialogue ticlon: novtype:patriarch_byzantine-pastor_byzantine
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@23a06a6b: Could not recognise key weight in dialogue declaration key:seljuks,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@3d53669d: Could not recognise key weight in dialogue declaration key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weight:15
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:normans,v1:adult,v2:adult,weight:6
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:constantinople,v1:adult,v2:adult,weight:9
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:baron1,v1:adult,v1:type:baron_byzantine,v2:adult,v2:male,v2:nontype:pastor_byzantine,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:inuits,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: newchat:key:notavern,v1:adult,v1:male.v2:adult,v2:male,notbuilding:tavern,weight:20
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: byzantines: en: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: v1;60Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / I wish there was a tavern. Then we could drink Roman wine.
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@6d51fc7b: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: norman: en_us: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 23:01:52 ERROR: org.millenaire.common.Culture$CultureLanguage$Dialogue@20cf04c6: Could not recognise key weight in dialogue declaration key:tavern,building:tavern,v1:adult,v2:adult,weight:10
+6.0.1 05-01-2018 23:01:52 ERROR: Culture: norman: en: Trying to register two dialogues with the same key: tavern
+6.0.1 05-01-2018 23:01:52 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 05-01-2018 23:01:52 MAJOR: null: Generating building res file.
+6.0.1 05-01-2018 23:01:52 MAJOR: null: Generated building res file.
+6.0.1 05-01-2018 23:18:30 Exception, printing stack:
+6.0.1 05-01-2018 23:18:30 Exception, printing stack:
+6.0.1 05-01-2018 23:18:30 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 23:18:30 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\37_75_-144_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 23:18:30 Exception, printing stack:
+6.0.1 05-01-2018 23:18:30 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-320_75_-507_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 05-01-2018 23:24:17 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\37_75_-144_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 05-01-2018 23:26:37 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)

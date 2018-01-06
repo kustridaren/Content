@@ -227,3 +227,57 @@ lumbermanwine_0_label=Thirsty!
 lumbermanwine_0_description=Chopping wood is such hard work... If only someone would bring me a bottle of wine!
 lumbermanwine_0_description_success=Ah, I needed that! Thank you so much, my good man!
 lumbermanwine_0_description_refuse=Don't count on me next time you need some wood!
+
+
+thehunt_0_label=The Hunt
+thehunt_0_description=Hey, you! I'm very busy, but the village is counting on someone to hunt for food and supplies. Can you help us out?
+thehunt_0_description_success=Thank you. See those cows over there? 6 hocks of beef and 6 leather pelts should be fine.
+thehunt_0_description_refuse=I guess I'll find someone else, then.
+thehunt_1_label=Return With the Spoils
+thehunt_1_description=How was the hunt?
+thehunt_1_description_success=Ah! Wonderful! We're very thankful that you decided to help us out. We'll feast on this for quite some time.
+thehunt_1_description_refuse=That's disappointing, but I suppose you might get better in time.
+thehunt_1_description_timeup=You could not hunt enough cows in time. The villagers of $startvillager_villagename$ have noted your disgrace.
+thehunt_1_listing=Hunt enough cows to get 6 beef and 6 leather, then bring them to $wife_villagername$.
+
+enderhunt_0_label=Sedna's Minions
+enderhunt_0_description=Brave warrior, we've noticed that Sedna's servants have left the Spirit Realm and have invaded this world. Will you help us slaughter them? 
+enderhunt_0_description_success=Wonderful! Get right on it, we're counting on you. Bring me back 6 of their orbs so I can help stop them for good.
+enderhunt_0_description_refuse=You're going to leave us out here to fend for ourselves?! We'll surely die!
+enderhunt_1_label=Return With the Spoils
+enderhunt_1_description=Have you dispelled a few of them?
+enderhunt_1_description_success=That will teach Sedna to send her minions to attack us! I'll try to seal the breach right now, but I may need more of these orbs later.
+enderhunt_1_description_refuse=This isn't enough orbs, but I guess you tried at least.
+enderhunt_1_description_timeup=You didn't kill enough Endermen in time. The villagers of $startvillager_villagename$ are very disappointed in you.
+enderhunt_1_listing=Kill enough Endermen to get 6 Ender Pearls and bring them back to $shaman_villagername$.
+
+enderhunt0_0_label=Sedna's Minions
+enderhunt0_0_description=Brave warrior, we've noticed that Sedna's servants have left the Spirit Realm and have invaded this world. Will you help us slaughter them? 
+enderhunt0_0_description_success=Wonderful! Get right on it, we're counting on you. Bring me back 6 of their orbs so I can help stop them for good.
+enderhunt0_0_description_refuse=You're going to leave us out here to fend for ourselves?! We'll surely die!
+enderhunt0_1_label=Return With the Spoils
+enderhunt0_1_description=Have you dispelled a few of them?
+enderhunt0_1_description_success=That will teach Sedna to send her minions to attack us! I'll try to seal the breach right now, but I may need more of these orbs later.
+enderhunt0_1_description_refuse=This isn't enough orbs, but I guess you tried at least.
+enderhunt0_1_description_timeup=You didn't kill enough Endermen in time. The villagers of $startvillager_villagename$ are very disappointed in you.
+enderhunt0_1_listing=Kill enough Endermen to get 6 Ender Pearls and bring them back to $shaman_villagername$.
+
+bonefetch_0_label=Fetch
+bonefetch_0_description=I was playing with a rabbit skull, but mommy took it away from me! Can you talk to her and get it back?
+bonefetch_0_description_success=Thanks!
+bonefetch_0_description_refuse=You're a big meanie!
+bonefetch_1_label=Talk to Her Mother
+bonefetch_1_description=She wants to play with the skull? I took it away because we need it for dinner. Go tell her she's not getting it back.
+bonefetch_1_description_success=She'll understand.
+bonefetch_1_description_refuse=Why did I even ask a stranger?
+bonefetch_2_label=Talk to the Girl
+bonefetch_2_description=Waa! She won't give it back!? Well, go find me a new toy to play with!
+bonefetch_2_description_success=Maybe some bones?
+bonefetch_2_description_refuse=Waaa!!!!!
+bonefetch_3_label=Hand Her the Bones
+bonefetch_3_description=Yay! More toys!
+bonefetch_3_description_success=You're the best! Bones are so much fun!
+bonefetch_3_description_refuse=You're a big meanie!
+bonefetch_3_description_timeup=You didn't give the girl 2 bones you promised. The villagers of $startvillager_villagername$ are a little disappointed in you.
+bonefetch_3_listing=Give $girl_villagername$ 2 skeleton bones.
+

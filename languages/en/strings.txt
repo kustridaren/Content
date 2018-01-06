@@ -617,6 +617,20 @@ goal.makejapaneseweapons=Crafting Japanese armement
 goal.makesake=Fermenting sake
 goal.slaughtersquid=Fishing squids
 
+goal.shoveldirt=Shoveling Dirt
+goal.makecarving=Carving Statue
+goal.packsnow=Layering Snow
+goal.packOakSod=Packing Oak Sod
+goal.packSpruceSod=Packing Spruce Sod
+goal.packBirchSod=Packing Birch Sod
+goal.packJungleSod=Packing Jungle Sod
+goal.plantPotatoHome=Planting Potatos
+goal.cookPotato=Cooking Potato
+goal.harvestPotatoHome=Harvesting Potato
+goal.packsnowblock=Packing Snow
+goal.carveice=Carving Ice
+
+
 goal.brewpotions=Brewing potions
 goal.harvestwarts=Harvesting warts
 goal.makeglassbottles=Making glass bottles

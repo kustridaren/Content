@@ -17,7 +17,7 @@ goal=makepaperrice
 
 requiredGood=rice,16
 requiredGood=paper,8
-requiredGood=wood,24
+requiredGood=wood_any,24
 
 toolneededclass=meleeweapons
 baseAttackStrength=5
