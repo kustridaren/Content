@@ -92,6 +92,8 @@ ui.nbbuildings=<0> bâtiments
 ui.wandwrongblock=Cette baguette ne marche que sur un bloc d'obsidienne pour un village aléatoire ou sur les blocs suivants:
 ui.wandblocklist=<0> pour un <1>
 ui.wandblocklistcontrolled=<0> pour un <1> (nécessite d'être chef dans cette culture)
+ui.wand_locationinuse=Cet emplacement est déjà pris.
+ui.wand_invillagerange=Vous êtes trop proche du village: <0>
 ui.brickinstructions=Un bloc de terre et un de sable sont nécessaires pour créer une brique
 ui.buildingscentre=Centre
 ui.buildingsstarting=Bâtiments initiaux
@@ -116,6 +118,8 @@ ui.woodjungle=Bois tropical
 ui.anyenchanted=Objet enchanté
 ui.enchantedsword=Epée enchantée
 ui.selectabuildingproject=Choisissez un bâtiment
+ui.selectabuildingproject_custom=Reconnaître un bâtiment déjà construit par vous:
+ui.selectabuildingproject_standard=Bâtiments Millénaire à construire:
 ui.projectadded=Le projet a été ajouté à la liste
 ui.problemat=Problème à <0>: <1>
 ui.constructionforbidden=construction interdite
@@ -145,6 +149,7 @@ ui.notleaderin=Vous n'êtes pas encore un chef dans la culture <0>.
 ui.leaderinstruction=Pour devenir chef dans une culture, vous devez atteindre le rang de "chef naturel" dans un village et demander le rang au chef, ou compléter le chapitre de la Quête de la Création pour cette culture (si disponble)
 ui.wandinstruction=Utilisez la baguette sur on bloc d'obsidienne pour générer un village aléatoire ou sur un bloc d'or pour choisir le type à générer.
 ui.controlled=contrôlé
+ui.controlledcustom=perso, contrôlé
 ui.villagerelations=<0> (<1>, <2>): <3>
 ui.relationlist=Relations avec les autre villages
 ui.relationpraise=Dire du bien
@@ -168,6 +173,7 @@ ui.helpbutton=Aide Millénaire
 ui.chunkbutton=Carte des tronçons
 ui.configbutton=Réglages Millénaire
 ui.serverimportforbidden=Il faut être administrateur pour pouvoir importer des bâtiments sur un serveur.
+ui.inhabitants=Habitants
 
 ui.controldiplomacy=Diplomatie
 ui.raidinprogress=Raid en cours!
@@ -180,7 +186,32 @@ ui.relneutral=Neutres
 ui.relbad=Conflit
 ui.raid=Planifier un raid
 
+ui.custombuilding_confirm=Confirmer la création d'un bâtiment personalisé: <0>
+ui.custombuilding_cantconfirm=Impossible de créer un bâtiment personalisé: <0>
+ui.custombuilding_edit=Mettre à jour le bâtiment personalisé: <0>
+ui.custombuilding_resneededintro=Resources nécessaires:
+ui.custombuilding_resneeded=<1> sur <3> <0> trouvé (min: <2>)
+ui.custombuilding_newvillage=Création d'un nouveau village avec bâtiment central personalisé
+ui.custombuilding_signnumber=Note: vous pouvez indiquer l'ordre dans lequel utiliser les panneaux en mettant un numéro de 1 à <0> dans la première ligne.
+ui.custombuilding_radius=Les resources sont identifiées dans un rayon de <0> blocs (<1> verticalement).
+ui.close=Fermer
+ui.confirm=Confirmer
 
+custombuilding.chest=coffre
+custombuilding.craft=établi
+custombuilding.sign=panneau
+custombuilding.field=champ
+custombuilding.spawn=paille (sera détruite; indique là où apparaîtront les animaux)
+custombuilding.sapling=arbustre ou arbre
+custombuilding.stall=laine jaune (sera détruite; indique là où les marchants vendront)
+custombuilding.mining=grès, pierre lisse, sable, argile ou gravier
+custombuilding.furnace=four
+custombuilding.mudbrick=brique humide
+custombuilding.sugar=canne à sucre
+custombuilding.fishing=laine bleue clair(sera détruite; indique là où les villageois pêcheront)
+custombuilding.silk=laine blanche (sera détruite; indique là où les vers à soie seront)
+custombuilding.squid=laine bleue (sera détruite; indique là où apparaîtront les pieuvres; doit être entourée d'eau)
+custombuilding.cacao=cabosse de cacao
 
 help.tab_1=Généralité sur les villages
 help.tab_2=Commerce
@@ -231,6 +262,7 @@ quest.cqchapternotstartedshort=Chapitre "<0>": pas commençé.
 quest.cqchapterinprogressshort=Chapitre "<0>": <1>/<2>.
 quest.cqchaptercompletedshort=Chapitre "<0>": terminé.
 quest.cqcheckquestlistandhelp=Pressez '<0>' pour plus d'information ou pour accéder à l'aide Millénaire.
+
 
 
 //Item names

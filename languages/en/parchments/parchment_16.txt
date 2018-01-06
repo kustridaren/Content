@@ -15,7 +15,7 @@ Women
 
 Jojoufu じょじょうふ: Brave woman. This is the wife of a guard or soldier. She will do normal tasks such as farming in the fields or making thatch. But when the men are out fighting she gets tasked with defending the village to her last breath. Be careful how you look at her as one wrong movement of the eyes and you've had it.
 
-Reifujin れいふじん: Lady. This woman is the wife of a rich man usually the village leader. She tries to make herself look beautiful and doesn't do much else... at all.
+Reifujin れいふじん: Lady. This women is the wife of a rich man usually the village leader. She tries to make herself look beautiful and doesn't do much else... at all.
 
 Kuramoto: Woman Brewer. This specialist of sake production works with her husband at the brewery.
 
@@ -53,6 +53,6 @@ Danshi だんし: Teen boy. Old enough to move in to a building and have their o
 
 Jou じょう: Teen girl. She is old enoungh to move away from home and get married where she will then use the skills she learnt from her mother in the real world.
 
-Otokonoko おとこのこ: Boy. Plays around the village and slowly grows older.
+Otokonoko おとこのこ: Boy. Plays around the village and slower grows older.
 
-Onnanoko おんなのこ: Girl. Plays around the village and slowly grows older.
+Onnanoko おんなのこ: Girl. Plays around the village and slower grows older.

@@ -8,7 +8,7 @@ villager.GoPlay=Mallon tha paixw exw. / I think I'll go play outside.
 villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / I'm tired. I'll go home to sleep.
 villager.makeBread=To psomi myrizei idi wraia. / The bread already smells good...
 villager.gorest=Mallon oti tha pao gia ypno. / I think I'll go to sleep.
-villager.BecomeAdult=Telika egina enas romaios poliths! / Finally I have become a Roman citizen!
+villager.BecomeAdult=Telika egina enas romaios poliths! / Finally I have become a roman citizen!
 villager.calltoarms=H Romaikh Autokratoria dexete epithesh! Sta opla! / The Roman Empire is attacked! To arms!
 villager.GoPlay=Nomizo oti tha pao na paixoun exo. / I think I'll go play outside.
 
@@ -25,7 +25,7 @@ armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston
 armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / Do not try to attack anyone armed by me.
 
 wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Our task is to control our men.
-wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / As a woman, you aren't allowed to do much here...
+wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / As a women you aren't allowed to do much here...
 wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / Time to take care of the household.
 wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Things like this are the only things I can do here.
 wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / My husband has finally delivered his resources like I told him.
@@ -39,6 +39,7 @@ pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa
 
 lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera . / My wife must be proud with all the wood I have brought.
 lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Every structure here needs wood, and getting it is my job!
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Another tree down, more wood for the village!
 lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Nice sapling over there.
 lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / Soon this will be a big, majestic tree! And I'll cut it down.
 

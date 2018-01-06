@@ -1,7 +1,7 @@
 villager.greeting=Konnichiwa, $name-san! / Good day, $name-san!
 villager.greeting=Oi. / Hey.
 villager.greeting=Ogenki desuka, $name-san  / How are you, $name-san?
-villager.greeting=Kawatta koto aru? / What's new?
+villager.greeting=Kawatta koto aru? / Whats new?
 villager.greeting=Hajimemashite / Pleased to meet you.
 villager.greeting=Yokoso. / Welcome.
 villager.greeting=Gokigenyou. / How do you do?
@@ -11,10 +11,9 @@ villager.gorest=A-, mou neru jikan da / Ah, my bedtime.
 villager.gorest=Watashi wa totemo tukarete imasu./ I am too tired.
 
 villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / I will pray to the Goddess Uga-no-Mintama for bountiful harvest.
-villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami protect us from evil. 
-villager.gopray=Moshi rasseru dake ga koko ni itara, kare wa nani o subeki ka shitteitadarou. / If only Rasseru were here, he'd know what to do.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami protect us of from evil. 
 
-villager.BringBackResourcesHome=Cho cho cho... / Work, work, work...
+villager.BringBackResourcesHome=Cho cho cho... / work, work, work...
 villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / I going to cut down some trees.
 villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / I need some supplies.
 villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / I will plant these saplings.
@@ -27,7 +26,7 @@ villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / I got food
 
 villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / I need more materials.
 villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / My father taught me how to build.
-villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / I hope the kami like my building.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / I hope the kami likes my building.
 
 villager.GoPlay=watashi wa asobitai desu. / I want to play.
 villager.BecomeAdult=Seityou suru jikan. / Time to grow up

@@ -1,4 +1,4 @@
-culture.hindi=Hindu
+culture.hindi=Hindi
 
 villager.indian_boy=Boy
 villager.indian_girl=Girl

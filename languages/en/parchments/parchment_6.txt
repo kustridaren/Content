@@ -1,7 +1,7 @@
 version:1.1.4
 Millénaire: Indian buildings
 
-Village Centers
+Village Centres
 
 Mukhiya ka Ghar : The chief's house. This brick house serves as a home for the chief and his wife, as well being the village center. The many chests are there to collect the generous "contributions" of the villagers.
 
@@ -19,7 +19,7 @@ Sikaar : Quarry. A simple hole dug down to the deeper rock. It's here that the m
 
 Bhati : Forge. The day-to-day tools of the village are made here by the smith; his anvil is nearly as close to his heart as his wife.
 
-Sena ka Bhati : Military forge. The armory, constructed of sandstone, houses both blades, armor, and the smith who crafted them.
+Sena ka Bhati : Military forge. The armoury, constructed of sandstone, houses both blades, armor, and the smith who crafted them.
 
 Muurtikaar ka Ghar :  Sculptor's house. This little house has an attached workshop in which the sculptor transforms rock and sandstone into statues of Hindu gods.
 
@@ -33,7 +33,7 @@ Inta bhatta : Brick kiln. This building is essential to any Indian village. Here
 
 Kunja : Grove. Carefully maintained by the lumberjacks, groves serve as the primary source of wood for the village. The rich soil and the careful ministrations of the lumberjacks help the trees to regrow much faster than normal.
 
-Puraalekhagar : Temple archives. It is here where the priest and his wife keep all of their gossip and secret information on all the other villagers.
+Puraalekhagar : Temple archives. It is here where the priest and his wife keep all of their gossip and secret information on all of the other villagers.
 
 Dhaan : Rice paddy. Rice, an essential staple - what good cuisine doesn't involve rice?
 

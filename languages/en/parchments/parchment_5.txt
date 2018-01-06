@@ -21,17 +21,17 @@ Kisaan: Peasant. These poor men aspire to raising their own chickens one day, bu
 
 Lakarhara: Lumberman. These dedicated men, with their imposing beards, tend the village groves.
 
-Khanik: Miner. These men spend their day in the quarry, performing back-breaking labor. Unlike their Norman brethren, they don't even have the comfort of a visit to a tavern at the end of the day.
+Khanik: Miner. These men spend their day in the quarry, performing back-breaking labour. Unlike their Norman brethren, they don't even have the comfort of a visit to a tavern at the end of the day.
 
 Rajput Sainik: Rajput soldier. These men were raised as military men and have been trained to fight since childhood. Their role is to defend the village - and be careful, because they take it seriously.
 
 Loohaar: Smith. Their profession might not be the most prestigious, but what would the villagers do without their tools?
 
-Sena ka Loohaar: Army Smith. These military blacksmiths are specialized in the smithing of weapons and armor; difficult work, but more rewarding than making farming implements.
+Sena ka Loohaar: Army Smith. These military blacksmiths are specialized in the smithing of weapons and armour; difficult work, but more rewarding than making farming implements.
 
-Muurtikaar: Sculptor. As both artists and craftsmen, they have the great honor of crafting the statues which adorn the temple.
+Muurtikaar: Sculptor. As both artists and craftsmen, they have the great honour of crafting the statues which adorn the temple.
 
-Pandit: Priests. Born to Brahman families, these wise men serve as priests to their villages. Their endless knowledge of Sanskrit hymns is matched by their endless refusal to do actual work.
+Pandit: Priests. Born to Brahmin families, these wise men serve as priests to their villages. Their endless knowledge of Sanskrit hymns is matched by their endless refusal to do actual work.
 
 Vyapari: Merchant. These men take goods from their village to another village to trade. They have to walk over the harsh deserts usually to get there, once they do get there they get told to go back carrying more resources as payment.
 NEW_PAGE

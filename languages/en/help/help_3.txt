@@ -3,7 +3,7 @@ version:3.4
 
 Each village in Millénaire has a opinion of you, neutral at the start and changing according to your actions. This reputation is very important: many rewards are only possible with a good reputation, and if your reputation gets too bad, villagers can refuse to trade with you. You can check your reputation by speaking (<darkblue>right-click<black>) with the village chief.
 
-The main way to improve your reputation is to trade with the village. Purchases as well as sales improve your reputation in proportion to the price. You can also improve your reputation by performing quests for them. Conversely, attacking a village or failing certain missions will damage your reputation.
+The main way to improve your reputation is to trade with the village. Purchases as well as sales improve your reputation in proportion to the price. You can also improve your reputation by performing quests for them. Conversely, attacking a village or failling certain missions will damage your reputation.
 
 You also have a <darkblue>reputation with each culture<black>. This reputation is affected by all your dealings with villages of this culture, and affects your trading with all other villages of the same culture. For example, if you have a very good reputation with a Norman village, other Norman villages will also like you (a little) more. You can check your reputation with every culture in the information screen (“M” key by default).
 

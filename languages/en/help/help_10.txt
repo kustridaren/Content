@@ -1,7 +1,7 @@
 version:4.8.0
 <darkblue>The Mayans
 
-From the Yucatan, Mayans are distinguished by their stone architecture with gold decoration and live in farming, religious and military-based ones. They speak Mayan, but their dialogue will be translated as the player "learns" their language by speaking with them.
+From the Yucutan, Mayans are distinguished by their stone architecture with gold decoration and live in farming, religious and military-based ones. They speak Mayan, but their dialogue will be translated as the player "learns" their language by speaking with them.
 
 <darkblue>Unique objects and blocks
 

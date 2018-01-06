@@ -33,11 +33,11 @@ Eleveur : Animal farmer. Lives in a cattle farm, a pig farm, or a chicken farm. 
 
 Mineur : Miner. Lives and works in a quarry, tirelessly mining stone and sand. When his quarry gets upgraded with furnaces, he smelts them into smooth stone and glass as well.
 
-Charpentier : Carpenter. Lives and works in a carpenter's house, where he makes timber frames to use in building construction.
+Charpentier : Carpenter. Lives and works in a carpenter's house, where he makes timberframes to use in building construction.
 
 Moine : Monk. Lives in the abbey, in which he painstakingly copies ancient books on new parchments. An art, according to him.
 
-Marchant : Merchant. Goes from inn to inn, trading goods from one village to another. It is his job to roam for the good of all the villagers.
+Marchant : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his job to roam for the good of all the villagers.
 
 Marchant étranger : Foreign Merchant. Merchants from far-away places will visit markets to sell their exotic goods, before leaving with your hard-earned deniers.
 NEW_PAGE

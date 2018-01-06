@@ -3,14 +3,14 @@
 villager.greeting=Namaste, $name-ji! / Greetings, $name-ji!
 villager.greeting=Aaj bahut garmi hai. / It is very hot today.
 villager.greeting=Kya haal hai? / How are things?
-villager.greeting=Kya khabar hai? / What's new?
+villager.greeting=Kya khabar hai? / What news?
 villager.greeting=Ghar par sa theek hain? / Is everyone well at home?
 villager.greeting=Yeh barish kyun nahin ho rahi? / Why isn’t it raining?
 villager.greeting=Kya tum se kale pani se pare ho? / Are you from beyond the ocean?
 indian_pandit.greeting=Jeetey raho. / Have a long life.
 merchant_oriental.greeting=Salam alaikum, bhai! / Peace upon you, brother!
-merchant_adivasi.greeting=Main van se a raha hoon / I have just arrived from the forest.
-merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Traveling is tough for a lone woman.
+merchant_adivasi.greeting=Main van se a raha hoon / I have just arrived from the forest
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Travelling is tough for a lone woman
 
 male.gorest=Ab jaakey aaram karta hoon. / Now I will go and rest.
 male.gorest=Subah sey kaam kar raha hoon. / I have been working since morning.
@@ -45,8 +45,7 @@ indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / The ki
 
 indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Let’s see, one ton of bricks, two tons of stones...
 indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindu architecture is renowned throughout the world.
-indian_peasant.construction=Iskey baad, main lal kila banaoonga. / This will look quite nice when it's done. 
-indian_peasant.construction=Ipso facto, grandimora di shalo. / Construction is hard work, but it is worth it in the end. 
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / When I’m done with this, I’ll make a red fort. 
 
 villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / I love playing in the dirt.
 villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Enough playing, time to work.
@@ -66,4 +65,4 @@ indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / Sculpture is the 
 
 merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / See the glories of Persia!
 merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Everything is grown by my family, deep in the jungle.
-merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Home-made food for hungry travelers!
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Home-made food for hungry travellers!

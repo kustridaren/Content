@@ -31,7 +31,7 @@ playerhugefield_A0=Very Large Field
 playerlargefield_A0=Large Field
 playersmallfield_A0=Small Field
 playersmallhouse_A0=Small House
-bazaar_A0=Market
+bazaar_A0=
 tank_A0=Stepwell
 
 //extra buildings:

@@ -15,4 +15,4 @@ Each village is built around a central building (which can be a fort, a monaster
 
 Pressing the "V" key (by default) displays a list of nearby villages. Isolated buildings are not listed, you must remember their positions.
 
-By default, the minimum distance between two villages is two kilometers. Hamlets created around certain villages are an exception to this rule.
+By default, the minimum distance between two villages is two kilometres. Hamlets created around certain villages are an exception to this rule.

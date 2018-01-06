@@ -2,7 +2,7 @@
 villager.greeting=Ola, $name-ji! / Hello, $name-ji!
 villager.greeting=U- ka'an yam k'iinal behla'e'. / The sky is hot today.
 villager.greeting=Biix men u- pixan ts'aakik teech? / How do the spirits treat you?
-villager.greeting=Ba'ax tumben? / What's new?
+villager.greeting=Ba'ax tumben? / Whats new?
 villager.greeting=Biix yam teech pamilya? / How is your family?
 villager.greeting=Pixan tuuxtik gnat k'aaxal. / Spirits send us rain.
 villager.greeting=Tu'ux yam teech lu'um? / Where is your land?
@@ -15,28 +15,28 @@ villager.gorest=Yaaawn. /
 villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Spirits send us a stong harvest.
 villager.gopray=Pixan an gnat. / Spirits help us.
 
-villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / I have too much wood to carry.
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / I have to much wood to carry.
 villager.ChopTrees=Ya'ul pak. / Tree cutting time.
 villager.GatherGoods=Ichil chuk u- se'es sut otoch. / I take the wood back home.
-villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / I planted all these trees. 
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / I plant all these trees. 
 
 //villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / We need stone to make our homes. 
-//villager.GatherBrick=Ichil kuch ti yaab tunich. / I carry too much stone. 
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / I carry to much stone. 
 //villager.CookBrick=A'-la yam k'a'am tunich. / This is strong stone.
 villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / Rain sends us a strong harvest.
-villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Good rain, good harvest.
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Good rain good harvest.
 villager.PlantTurmeric=Yooch men u- han-ha. / Spice makes the food.
-villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / This spice harvest gives strength to food.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / This spice harvest gives strenght to food.
 villager.SlaughterChicken=Ah kax si gnat b'ak'. / Chickens give us meat.
 
 villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / A clean house is a good house. 
 villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ I need these things taken home.
-villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / Too much food to carry.
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / To much food to carry.
 villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / My small child is sick.
 
 
-villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Much too much stone.
-villager.ConstructionStepByStep=Meyah meyah meyah. / Work, work, work.
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Much to much stone.
+villager.ConstructionStepByStep=Meyah meyah meyah. / Work work work.
 villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / I need a strong co-worker. 
 
 villager.GoPlay=Ichil kolom uk chun su'uk. / I play in the grass.

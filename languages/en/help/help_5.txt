@@ -21,7 +21,7 @@ Some inhabitants of lone buildings will attack you without warning if you approa
 
 Millénaire villages have positive or negative relations with nearby villages. These relations change randomly and may be influenced by the player talking to the chiefs of any of the villages. If their relations are very bad and one of the villages has enough fighters, it can launch a raid on other villages. You will be notified by a message. During a raid, the fighters attacking the town will be trying to kill the menfolk of the village they are attacking. If they do, they will take some of the resources as spoils. You can help one side or the other during a raid.
 
-It may be useful to encourage a village that you like to attack its neighbors to increase its resources. More cynically, encouraging raids can also allow you to help yourself to some of the loot once the defencers are dead.
+It may be useful to encourage a village that you like to attack its neighbours to increase its resources. More cynically, encouraging raids can also allow you to help yourself to some of the loot once the defencers are dead.
 
 <darkblue>Hiring a villager
 
