@@ -855,6 +855,12 @@
 </table>
 </table>
 
+|Oldwomaniqik Tupiq = <table><tr><td style="vertical-align:top;">
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@6b90353c/0|32px|Carving]]</td><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@53dfacba/0|32px|Snow]]</td><td>[[File:Stone.png|32px|Stone]]</td></tr>
+<tr><th scope="row">Construction</th><td>2</td><td>3</td><td>26</td><td>57</td><td>72</td><td>47</td></tr>
+</table>
+</table>
+
 |Mitlik tupiq = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@5e840abf/0|32px|Ice]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@40ab8a8/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@53dfacba/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@1b47915/1|32px|Sod Spruce Planks]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@1b47915/2|32px|Sod Birch Planks]]</td></tr>
 <tr><th scope="row">Construction</th><td></td><td>30</td><td></td><td></td><td></td><td>310</td><td>11</td><td></td><td></td></tr>
