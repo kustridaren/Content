@@ -1,0 +1,13 @@
+native:autsituqpuq;name_en:Warm weather Inuits;
+
+weight:10
+startLevel:-1;
+orientation:3;width:13;length:11
+//1.7 biomes
+
+biome:Beach
+biome:Desert
+
+
+//starting buildings:
+centre:sanduit

@@ -1,0 +1,1 @@
+max:0;priority:1000;native:Ieeiaqsiruq;around:4;startLevel:-1;orientation:3;length:16;width:11;signs:1,2,0,3,4,5,7,6,8;shop:townhall;tag:playerth

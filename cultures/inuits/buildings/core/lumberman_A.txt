@@ -1,0 +1,1 @@
+max:1;priority:500;native:Qirriuqtuq tupiq;around:4;startLevel:-1;orientation:3;male:inuit_lumberman;female:inuit_wife;minDistance:30;width:8;length:5

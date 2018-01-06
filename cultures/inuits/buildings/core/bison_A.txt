@@ -1,0 +1,1 @@
+native:Kulavak;name_en:Field of Bison;around:4;startLevel:0;orientation:3;width:10;length:10;tag:cattle

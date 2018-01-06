@@ -1,0 +1,63 @@
+name:Ipqitchuq
+weight:10
+
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+
+biome:tundra
+biome:taiga
+biome:ice plains
+
+//extraBiomes mod
+
+biome:ice mountains
+biome:autumn woods
+
+//starting buildings:
+centre:shamanistic
+start:fisherman
+start:lumberman
+start:grove
+start:animistic
+start:market
+
+
+player:smallhouse
+player:mediumhouse
+//player:playerlargeplot
+//player:playerbigigloo
+//player:playerhugeplot
+//player:bison
+
+//to be built in priority
+//core:bison
+core:sodder
+core:carver
+core:guesthouse
+core:hunter
+
+//to be built after the core ones
+secondary:foodpreparer
+never:offering
+secondary:hunter
+//secondary:bison
+secondary:grove
+secondary:lumberman
+
+never:bison
+never:lake
+
+
+//Selling prices:
+sellingPrice:bread,7
+
+
+//Buying prices:
+buyingPrice:cobblestone,2
+buyingPrice:stone,4
+buyingPrice:bread,5
+buyingPrice:woodHoe,10

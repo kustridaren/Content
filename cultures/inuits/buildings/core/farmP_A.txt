@@ -1,0 +1,5 @@
+native:Puviaq;name_en:Farm;around:4;startLevel:-1;orientation:3;width:8;length:5;priority:10;tag:potato
+
+pathlevel:1
+startLevel:-1
+

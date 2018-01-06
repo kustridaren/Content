@@ -1,0 +1,1 @@
+native:Sikuliaq;name_en:Lake;around:4;startLevel:-4;orientation:3;width:10;length:10;tag:lake

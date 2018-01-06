@@ -1,0 +1,15 @@
+native_name=Aaquaksraatchiaq
+gender=female
+familyNameList=inuit_names
+firstNameList=inuit_names
+baseheight=0.85
+
+texture=textures/entity/inuit/inuit_female.png
+
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=patrol
+
+baseAttackStrength=2
+defaultweapon=bone

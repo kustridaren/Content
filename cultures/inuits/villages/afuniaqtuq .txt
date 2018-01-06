@@ -1,0 +1,62 @@
+name:Afuniaqtuq
+weight:10
+
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+
+biome:tundra
+biome:taiga
+biome:ice plains
+
+//extraBiomes mod
+
+biome:ice mountains
+biome:autumn woods
+
+//starting buildings:
+centre:tannery
+start:fisherman
+start:hunter
+
+//Currently not added player buildings
+player:smallhouse
+player:mediumhouse
+//player:playerlargeplot
+//player:playerbigigloo
+//player:playerhugeplot
+//player:bison
+
+//to be built in priority
+core:lumberman
+core:sodder
+core:grove
+core:armoury
+core:hunter
+core:dogbreeder
+core:farmW
+
+//to be built after the core ones
+secondary:foodpreparer
+secondary:guesthouse
+secondary:hunter
+secondary:hunter
+secondary:shaman
+
+never:bison
+never:carver
+never:offering
+never:lake
+
+//Selling prices:
+sellingPrice:bread,7
+
+
+//Buying prices:
+buyingPrice:cobblestone,2
+buyingPrice:stone,4
+buyingPrice:bread,5
+buyingPrice:woodHoe,10

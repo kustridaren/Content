@@ -1,0 +1,63 @@
+name:Milpa
+weight:10
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathslabs
+
+//1.7 biomes
+biome:Swampland
+biome:Swampland M
+biome:JungleEdge
+biome:JungleEdge M
+biome:Birch Forest
+biome:Birch Forest M
+
+//extraBiomes mod
+biome:lush swampland
+biome:jungle
+biome:rainforest
+
+//starting buildings:
+centre:mayanacropolis
+start:mayanhouse
+start:mayanlumber
+start:mayanmining
+start:mayangrove
+start:mayancornfarm
+
+player:mayanplayersmallfield
+player:mayanplayersmallhouse
+player:mayanplayerlargefield
+player:mayanplayerhugefield
+player:mayanplayerestate
+player:mayanplayerlargehouse
+player:gifthouse
+
+//to be built in priority
+core:mayansheepchickenfarm
+core:mayancornfarm
+core:mayanhouse
+core:mayanguard
+core:mayanlargepeasanthouse2
+core:mayaninn
+core:mayancacaofarm
+core:mayancacaofarm
+
+//to be built after the core ones
+secondary:mayangrove
+secondary:mayansheepchickenfarm
+secondary:mayancistern
+secondary:mayancornfarm
+secondary:mayanmarket
+secondary:mayancrafter
+secondary:mayanobsidiancrafter
+secondary:mayanshamangrounds
+secondary:mayanmining
+
+//never for this type of village
+never:mayanarmyforge
+never:mayanballcourt
+never:mayanlargepeasanthouse
+never:mayancalendar
+never:mayanwatchtower

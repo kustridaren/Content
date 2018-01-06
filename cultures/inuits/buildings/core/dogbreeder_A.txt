@@ -1,0 +1,6 @@
+native:Arfiqinik Tupiq;name_en:Dog Breeder;name_fr:enfrancais;around:4;startLevel:-1;orientation:3;width:11;length:14;male:inuit_dogbreeder;female:inuit_wife;tag:wolves
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+

@@ -1,0 +1,2 @@
+native:Kashim;name_en:Ceremonial House;around:4;startLevel:-1;tag:Praying;orientation:3;width:12;length:11
+startLevel:-1

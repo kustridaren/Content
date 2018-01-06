@@ -1,0 +1,66 @@
+name:Gunjiteki Mura
+weight:10
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+//1.7 biomes
+biome:Taiga
+biome:Taiga Hills
+biome:Taiga M
+biome:Extreme Hills
+biome:Extreme Hills+
+
+//extraBiomes mod
+
+biome:green hills
+biome:ice mountains
+biome:autumn woods
+
+//starting buildings:
+centre:japanesefort
+start:japanesefishery
+start:japanesepeasanth
+start:japanesesamuraih
+start:japanesepaddy
+start:japaneselookout
+
+player:japaneseplot1
+player:japaneseplot2
+player:japaneseplot3
+player:japanesehut
+player:japanesehouse
+player:japanesehousemedium
+player:japanesehouselarge
+player:gifthouse
+
+//to be built in priority
+core:japanesecrafter
+core:japanesesamuraih
+core:japanesesamuraih
+core:japanesequarry
+core:japaneseforge
+core:japanesearmyforge
+core:japaneselmh
+core:japanesefarm
+core:japanesegrove
+
+//to be built after the core ones
+secondary:japanesearchive
+secondary:japanesesamuraih
+secondary:japanesesamuraih
+secondary:japanesemarket
+secondary:japaneselookout
+secondary:chickenfarm
+
+//not to be built
+never:japanesepagoda
+never:japanesepalace
+never:japaneseshintoshrine 
+never:japanesefarmbig
+never:japanesekitchen
+never:bath
+never:well
+never:squidfarm

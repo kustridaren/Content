@@ -1,0 +1,3 @@
+max:1;priority:50;native:Niqi tupiq;around:4;startLevel:-1;orientation:3;width:12;length:7;female:inuit_chef;male:inuit_husband;tag:fishery
+
+priority:10

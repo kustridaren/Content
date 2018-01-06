@@ -1,0 +1,2 @@
+native:Sfuyaunnat tupiq ;name_en:Armoury;around:4;startLevel:-1;orientation:3;male:inuit_smith;female:inuit_wife;width:8;length:9;;tag:armoury
+startLevel:-1

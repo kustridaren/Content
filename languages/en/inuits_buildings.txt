@@ -1,0 +1,22 @@
+animistic_A0=Ceremonial House
+grove_A0=Grove
+grove_B0=Grove
+farmP_A0=Potato Farm
+farmP_B0=Potato Farm
+farmW_A0=Wheat Farm
+carver_A0=Carver
+tannery_A0=Tannery
+foodpreparer_A0=Kitchen
+armoury_A0=Armoury
+bison_A0=Bison Field
+fisherman_A0=Fisherman's Hut
+lumberman_A0=Lumberman's Hut
+shaman_A0=Shaman's Hut
+hunter_A0=Hunter's Hut
+lake_A0=Lake
+offering_A0=Offering
+guesthouse=Guesthouse
+shamanistic_A0=Shaman's House
+sodder_A0=Sodder's Hut
+
+gifthouse_a0=Gift House

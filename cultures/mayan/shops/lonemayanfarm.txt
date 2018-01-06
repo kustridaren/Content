@@ -1,0 +1,3 @@
+sells=maize,masa,wah
+
+buys=seeds

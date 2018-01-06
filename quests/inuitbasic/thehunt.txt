@@ -1,0 +1,14 @@
+minreputation:0
+chanceperhour:0.6
+maxsimultaneous:3
+step:new
+definevillager:key=startvillager,type=inuits/inuit_hunter
+villager:startvillager
+duration:5
+step:new
+villager:startvillager
+duration:5
+requiredgood:beefraw,6
+requiredgood:leather,6
+rewardreputation:128
+penaltyreputation:192

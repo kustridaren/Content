@@ -1,0 +1,3 @@
+native:Tuyubmiaq tupiq;name_en:Guest house;around:4;startLevel:-1;tag:inn;male:inuit_localmerchant;signs:1,0;priority:50;orientation:3;width:9;length:11
+startLevel:-1
+

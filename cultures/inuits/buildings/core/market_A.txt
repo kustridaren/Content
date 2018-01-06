@@ -1,0 +1,2 @@
+native:Markeqi tupiq;name_en:Market;around:4;startLevel:-1;orientation:3;width:13;length:16;tag:market;tag:leisure
+startLevel:-1

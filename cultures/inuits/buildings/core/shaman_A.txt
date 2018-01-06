@@ -1,0 +1,2 @@
+native:Angakok tupiq;name_en:Shaman's house;around:4;male:inuit_shaman0;startLevel:-1;orientation:3;width:12;length:9
+startLevel:-1

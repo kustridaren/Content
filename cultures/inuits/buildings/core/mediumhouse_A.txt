@@ -1,0 +1,1 @@
+max:0;priority:100000000;native:Mediqik Tupik;name_en:Medium House;name_fr:enfrancais;around:4;startLevel:-5;orientation:2;width:7;length:12;reputation:2*64*64;price:64*64

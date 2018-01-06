@@ -1,0 +1,2 @@
+native:Afuniaqti tupiq;name_en:Hunter's house;around:4;startLevel:-1;male:inuit_hunter;female:inuit_wife;orientation:3;width:8;length:16;tag:cattle
+startLevel:-1

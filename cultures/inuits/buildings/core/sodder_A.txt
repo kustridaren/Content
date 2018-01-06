@@ -1,0 +1,1 @@
+max:1;priority:50;native:Ivruq tupiq;name_en:Sod Gatherer's House;around:4;startLevel:-2;orientation:3;male:inuit_sodder;female:inuit_wife;width:9;length:11

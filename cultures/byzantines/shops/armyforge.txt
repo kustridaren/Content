@@ -1,0 +1,2 @@
+sells=leatherHelmet,leatherChest,leatherLegs,leatherBoots,stoneSword,stoneAxe,stonePickaxe,stoneShovel,stoneHoe,byzantineMace,byzantineBoots,byzantineLegs,byzantineplate,byzantineHelmet,bow,steelAxe,steelPickaxe,steelShovel,steelHoe
+buys=iron,leather

@@ -1,0 +1,14 @@
+native:autsituqpuq;name_en:Lone Fisherman;
+
+weight:10
+startLevel:-1;
+orientation:3;width:10;length:10
+//1.7 biomes
+
+biome:taiga
+biome:tundra
+biome:ice plains
+
+
+//starting buildings:
+centre:lonefisherman

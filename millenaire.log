@@ -1,0 +1,56 @@
+6.0.1 04-01-2018 17:33:41 Starting new session. Mods: examplemod 
+6.0.1 04-01-2018 17:33:45 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 04-01-2018 17:33:52 MAJOR: null: Loading language: en_us
+6.0.1 04-01-2018 17:33:52 ERROR: Culture: hindi: nl: In dialogue file /home/zoythrus/.minecraft/mods/millenaire/languages/nl/hindi_dialogues.txt the following line is invalid: ﻿//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 04-01-2018 17:33:52 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 04-01-2018 17:33:52 MAJOR: null: Generating building res file.
+6.0.1 04-01-2018 17:33:52 MAJOR: null: Generated building res file.
+6.0.1 04-01-2018 21:19:37 Starting new session. Mods: examplemod 
+6.0.1 04-01-2018 21:19:42 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 04-01-2018 21:19:58 MAJOR: null: Loading language: en_us
+6.0.1 04-01-2018 21:20:01 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 04-01-2018 21:20:05 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 04-01-2018 21:20:05 MAJOR: null: Generating building res file.
+6.0.1 04-01-2018 21:20:05 MAJOR: null: Generated building res file.
+6.0.1 04-01-2018 21:21:13 Starting new session. Mods: examplemod 
+6.0.1 04-01-2018 21:21:19 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 04-01-2018 21:21:25 MAJOR: null: Loading language: en_us
+6.0.1 04-01-2018 21:21:25 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 04-01-2018 21:21:25 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 04-01-2018 21:21:25 MAJOR: null: Generating building res file.
+6.0.1 04-01-2018 21:21:25 MAJOR: null: Generated building res file.
+6.0.1 04-01-2018 21:34:26 Exception, printing stack:
+6.0.1 04-01-2018 21:34:26 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 04-01-2018 22:27:56 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 04-01-2018 22:39:44 Repeat exception x3: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+6.0.1 04-01-2018 23:06:03 Starting new session. Mods: examplemod 
+6.0.1 04-01-2018 23:06:07 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.1 04-01-2018 23:06:12 MAJOR: null: Loading language: en_us
+6.0.1 04-01-2018 23:06:13 ERROR: Culture: hindi: nl: In dialogue file C:\Users\Brenton\AppData\Roaming\.minecraft\mods\millenaire\languages\nl\hindi_dialogues.txt the following line is invalid: ?//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.
+6.0.1 04-01-2018 23:06:13 MAJOR: null: Language loaded: en_us. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.1 04-01-2018 23:06:13 MAJOR: null: Generating building res file.
+6.0.1 04-01-2018 23:06:13 MAJOR: null: Generated building res file.
+6.0.1 04-01-2018 23:06:26 Exception, printing stack:
+6.0.1 04-01-2018 23:06:26 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-204_70_-94_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 04-01-2018 23:13:11 Exception, printing stack:
+6.0.1 04-01-2018 23:13:11 java.io.FileNotFoundException: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.1 04-01-2018 23:14:59 ERROR: Culture: japanese: Could not find villager type: japanese_teenagerfemale
+6.0.1 04-01-2018 23:14:59 ERROR: Culture: japanese: Could not find villager type: japanese_teenagerfemale
+6.0.1 04-01-2018 23:14:59 ERROR: Culture: japanese: Could not find villager type: japanese_teenagerfemale
+6.0.1 04-01-2018 23:14:59 ERROR: Culture: japanese: Could not find villager type: japanese_teenagermale
+6.0.1 04-01-2018 23:15:26 Repeat exception x2: C:\Users\Brenton\AppData\Roaming\.minecraft\saves\Survival World!\millenaire\buildings\-341_82_125_temp.gz (The process cannot access the file because it is being used by another process)
