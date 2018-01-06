@@ -82,6 +82,7 @@ lumberman_byzantine.GatherGoods=Ta déntra megálosan kalá aftí ti forá, tós
 lumberman_byzantine.GatherGoods=Elpízo óti to chorió tha chreiasteí óla aftá ta koútsoura. / I hope the village needs all of these logs.
 lumberman_byzantine.GatherGoods=Aftó ítan éna megálo déntro! Tóra to chorió boreí na chrisimopoiísei ta koútsourá tou. / That was one big tree! Now the village can use its logs.
 lumberman_byzantine.GatherGoods=Koitáxte óla aftá ta néa kormoús kai ta fytá pou píra apó tin kopí ton déntron! / Look at all of these new logs and saplings I got from chopping down the trees!
+lumberman_byzantine.PlantSaplings=Aftá ta fytá eínai tóso mikrá, merikés forés den boró na pistépso óti tha gínoun tóso megála. / These saplings are so small, sometimes I can't believe that they will become so big.
 lumberman_byzantine.PlantSaplings=Eísai tóso charitoméno mikrófyllo, schedón me afínei na xecháso óti tha se kópso ótan megalóseis. / You're so cute little sapling, almost lets me forget I'm going to chop you down when you grow up.
 lumberman_byzantine.PlantSaplings=$name, thélete na fytépsete éna fytó? / $name, do you want to plant a sapling?
 lumberman_byzantine.PlantSaplings=Ta déntra megalónoun tóso grígora edó, se líges méres gyrízoun apó aftó to mikroskopikó déntro méchri na eínai éna gemáto déntro. / Trees grow so fast here, in a few days they turn from this tiny sapling to being a full tree.
