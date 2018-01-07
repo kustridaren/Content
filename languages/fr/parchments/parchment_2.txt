@@ -5,7 +5,7 @@ Bâtiments centraux
 
 Fort. Dans les villages militaires, ce petit fort en bois est le centre du village. Un chevalier et sa dame y habitent. Avec assez de pierre, les villageois le transformeront en une puissante forteresse. 
 
-Abbaye. Les villages religieux sont centrés sur ce lieu de dévotions et d'études, où un moine travaille dur à produire des manuscrits et à les ranger dans des rayonnages. C'est ici que les fermiers des environs vont payer leur dû - en biens et en travail pour la Sainte Eglise. Ils seront certainement récompensés dans un autre monde.
+Abbaye. Les villages religieux sont centrés sur ce lieu de dévotions et d'études, où un moine travaille dur à produire des manuscrits et à les ranger dans des rayonnages. C'est ici que les fermiers des environs vont payer leur dû - en biens et en travail pour la Sainte Église. Ils seront certainement récompensés dans un autre monde.
 
 Manoir. Au centre des villages agricoles, ce manoir est le domicile d'un sénéchal, charger de lever l'impôt pour le roi - et de s'en garder une juste part.
 
@@ -19,7 +19,7 @@ Elevage bovin. Les vaches élevées ici fournissent du cuir et surtout la viande
 
 Elevage porcin. Les porcs sont transformés ici en côtelettes et goûteux boudins noirs. Tout est bon dans le cochon!
 
-Elevage ovin. Des moutons sont élevés ici pour leur laine. Un enclos séparé contient des poulets, dont les oeux et les plumes sont récoltés.
+Elevage ovin. Des moutons sont élevés ici pour leur laine. Un enclos séparé contient des poulets, dont les œufs et les plumes sont récoltés.
 
 Ferme. C'est ici que les fermiers cultivent le blé nécessaire à la boulangerie.
 
@@ -51,7 +51,7 @@ Chapelle / église. La chapelle, plus tard améliorée en église, est visitée 
 
 Taverne. Les femmes du village y produisent du cidre, et une fois un alambic installé, du calva. Les villageois s'y retrouvent pour prendre un verre et échanger des rumeurs.
 
-Tour de guet. Ce poste de surveillance est visité par les gardes durant leur patrouilles.
+Tour de guet. Ce poste de surveillance est visité par les gardes durant leurs patrouilles.
 
 Bâtiments décoratifs
 

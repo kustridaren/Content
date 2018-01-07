@@ -6,11 +6,11 @@ Venant du Yucutan, les Mayas se distinguent par leur architecture à base de pie
 <darkblue>Objets et blocs uniques
 
 -Ils cultivent du maïs. Le joueur peut demander au chef de lui apprendre comment cultiver cette céréale.
--A partir de maïs et de poulets, ils produisent des wah et des masas - des galettes très nourrissantes.
+-À partir de maïs et de poulets, ils produisent des wah et des masas - des galettes très nourrissantes.
 -Ils cultivent le cacao et en tirent la cacauhaa, une boisson chocolaté reconstituante
 -L’artisan d’obsidienne produit des armes et des outils en obsidienne, qui sont fragiles mais s’enchantent très facilement
 -Les blocs décoratifs en or, fabriqués par l’artisan à partir d’or vendu par le joueur
--Les bas-reliefs mayas fabriqués par l’artisan représente des divinités mayas
+-Les bas-reliefs mayas fabriqués par l’artisan représentent des divinités mayas
 
 <darkblue>Recettes spécifiques
 
