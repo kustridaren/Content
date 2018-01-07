@@ -53,7 +53,7 @@ wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matériaux. Je s
 //villager.DeliverResourcesShop=
 wife.MakeBread=Mon pain est le meilleur du village. / My bread is the best in the village.
 //villager.BeSeller=Coming, coming!
-wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Preparing cider is not the worse job around here.
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Preparing cider is not the worst job around here.
 wife.MakeCalva=Une boisson d'homme, faite par une femme. / A man's drink, made by women.
 wife.construction=Je construis, je construis, comme seule une femme le peu ! / Building, building, like only a woman could!
 wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Men don't have the neatness needed for precision work.
@@ -61,7 +61,7 @@ wife.construction=Ca va être un bâtiment superbe. / This is going to be one fa
 wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Why am I always the one sent to pick stuff up?
 wife.DeliverGoodsHousehold="Vas chercher ci, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Get this, get that", they say. One day I won't! I won't!
 
-villager.GoPlay=Je vais aller jouer dehors. / I think i'll go play outside.
+villager.GoPlay=Je vais aller jouer dehors. / I think I'll go play outside.
 villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Time to become something in the world!
 
 villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / You wouldn't eat it if you knew how it was made.
@@ -80,7 +80,7 @@ priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Praying is more
 villager.calltoarms=Aux armes ! Aux armes ! / To arms! To arms!
 villager.calltoarms=Montjoi Saint-Denis!
 villager.calltoarms=Tous pour un ! / All for one!
-villager.calltoarms=Aux armes, citoyens!
+villager.calltoarms=Aux armes, citoyens! / To arms, citizens!
 
 monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / If vanity was not a sin, I would say my manuscripts are the finest in the land.
 
@@ -95,6 +95,6 @@ art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Pear
 wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / All the pink wool you'll ever need!
 
 villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / A well-made bottle makes for a successful potion!
-villager.harvestwarts=Heuresement que je porte des gants. / Thanks God I'm wearing gloves.
+villager.harvestwarts=Heuresement que je porte des gants. / Thank God I'm wearing gloves.
 villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Only Master Vif-argent could have understood how to grow those abominations.
 villager.brewpotions=Un jour je serais un maître alchimiste! / One day I will be a master alchemist!

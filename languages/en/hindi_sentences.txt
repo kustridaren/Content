@@ -3,14 +3,14 @@
 villager.greeting=Namaste, $name-ji! / Greetings, $name-ji!
 villager.greeting=Aaj bahut garmi hai. / It is very hot today.
 villager.greeting=Kya haal hai? / How are things?
-villager.greeting=Kya khabar hai? / What news?
+villager.greeting=Kya khabar hai? / What's new?
 villager.greeting=Ghar par sa theek hain? / Is everyone well at home?
 villager.greeting=Yeh barish kyun nahin ho rahi? / Why isn’t it raining?
 villager.greeting=Kya tum se kale pani se pare ho? / Are you from beyond the ocean?
 indian_pandit.greeting=Jeetey raho. / Have a long life.
 merchant_oriental.greeting=Salam alaikum, bhai! / Peace upon you, brother!
-merchant_adivasi.greeting=Main van se a raha hoon / I have just arrived from the forest
-merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Travelling is tough for a lone woman
+merchant_adivasi.greeting=Main van se a raha hoon / I have just arrived from the forest.
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Travelling is tough for a lone woman.
 
 male.gorest=Ab jaakey aaram karta hoon. / Now I will go and rest.
 male.gorest=Subah sey kaam kar raha hoon. / I have been working since morning.
@@ -25,7 +25,7 @@ villager.gopray=Bhagwan, bas aap hi ka sahara hai. / God, you are our only hope.
 
 indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / It will be difficult to carry so much wood back home.
 indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / It seems I will spend my life cutting these trees.
-indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Now I will gather all the wood.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Now, I will gather all the wood.
 indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / The more trees I plant, the easier life will be later. 
 
 indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / How many bricks do you need to build a house? 
@@ -45,7 +45,7 @@ indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / The ki
 
 indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Let’s see, one ton of bricks, two tons of stones...
 indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindu architecture is renowned throughout the world.
-indian_peasant.construction=Iskey baad, main lal kila banaoonga. / When I’m done with this, I’ll make a red fort. 
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / Nothing compares to our magnificent architecture.
 
 villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / I love playing in the dirt.
 villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Enough playing, time to work.

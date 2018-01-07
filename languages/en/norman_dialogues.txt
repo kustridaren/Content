@@ -1,6 +1,6 @@
 newchat;key:rain,tag:notraining,weigth:10
 v1;0;Je sens qu'il va pleuvoir. / I can feel it's going to rain.
-v2;30;Il pleut toujours en Normandie. / It always rain in Normandy...
+v2;30;Il pleut toujours en Normandie. / It always rained in Normandy...
 
 
 newchat;key:beautifulvillage,weigth:10
@@ -9,7 +9,7 @@ v2;30;Magnifique! Et on y travaille dur! / Splendid! And we work hard at it!
 
 newchat;key:sunset,weigth:10
 v1;0;Le soleil se lève où, déjà? J'oublie toujours. / Where does the sun rise, again? I keep forgetting.
-v2;30;Au nord, bien sûr! / North, where else?
+v2;30;Au nord, bien sûr! / East, where else?
 
 newchat;key:harvest,weigth:10
 v1;0;Tu penses que la récolte sera bonne cette année? / Do you think the harvest will be good this year?
@@ -17,7 +17,7 @@ v2;30;Qui sait, avec le temps qu'il a fait. / Who knows, with the weather we've 
 v1;60;Il n'y a plus de saisons. / Seasons don't make sense here.
 
 newchat;key:indianfood,weigth:5
-v1;0;Tu as entendu parler des Indiens? / Have you heard of those Indian people?
+v1;0;Tu as entendu parler des Hindu? / Have you heard of those Hindu people?
 v2;30;Il paraît qu'ils sont très bizarres. / People say they are very strange.
 v1;60;J'ai même entendu dire que leur nourriture brûle! / Apparently their food burns!
 v2;100;Comme du calva? / Like calva?
@@ -48,8 +48,8 @@ newchat;key:christmas,weigth:10
 v1;0;C'est quand Noël, déjà? / When is Christmas coming?
 v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / I don't really know... Seasons don't change here.
 v1;80;Quel monde bizarre quand même. / What a strange world.
-v2;110;Parfois on dirait presque la Normandie... / Sometime it almost looks like Normandy...
-v2;140;et puis on se rappele que tout est différent. / and then we see that everything is different.
+v2;110;Parfois on dirait presque la Normandie... / Sometimes it almost looks like Normandy...
+v2;140;et puis on se rappele que tout est différent. / And then we see that everything is different.
 
 newchat;key:william,v2:adult,weigth:10
 v1;0;Tu as déjà vu le Duc Guillaume, toi? / Have you ever seen Duke William?
@@ -77,8 +77,8 @@ newchat;key:horses,v1:child,v2:adult,weigth:10
 v1;0;Ca manque d'animaux, ce pays. / This country lacks animals.
 v2;30;Il y a des vaches, des moutons et des cochons. / There are cows, sheep and pigs.
 v2;60;Que faudrait-il de plus? / What else is needed?
-v1;60;Des chevaux? Et des poneys! / Horses? And poneys!
-v2;90;Parce que tu veux un poney, maintenant? / Because you want a poney, now?
+v1;60;Des chevaux? Et des poneys! / Horses? And ponies!
+v2;90;Parce que tu veux un poney, maintenant? / Because you want a pony, now?
 
 
 newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
@@ -92,7 +92,7 @@ v1;0;Ca manque de distraction par ici. / There isn't much to do around here.
 v2;30;C'est bien, c'est calme. / It's good, peaceful.
 v1;60;Et ennuyeux... / And boring...
 v2;75;Tu n'as qu'à compter les vaches pour te distraire. / Why don't you count cows?
-v1;110;Déjà fait hier. Et les poulets aussi. / Already done, yesterday. And chicken too.
+v1;110;Déjà fait hier. Et les poulets aussi. / Already done, yesterday. And chickens, too.
 
 newchat;key:paris,v1:adult,v2:adult,weigth:2
 v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / What an isolated place. I'd like to see something else one day...
@@ -129,12 +129,12 @@ v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / You mi
 v2;30;Même pas vrai! Même pas vrai! / Not true! Not true! 
 
 newchat;key:enderman,v1:adult,v2:child,weigth:10
-v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Be good, or the enderman will grab you tonight!
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Be good, or the Enderman will grab you tonight!
 v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pfff, I'm too old to believe that nonsense.
 
 newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
-v1;0;Alors beauté, qu'est ce que tu fais ce soir? / So beauty, what are you doing tonight?
-v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, I already told you no!
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / So, beauty, what are you doing tonight?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, I already told you - no!
 v1;60;Quel caractère! / Such character!
 v2;80;Quel nigaud! / Such idiocy!
 
@@ -256,9 +256,9 @@ v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / This idiot? And 
 v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / Why not, my Lady! Euh... I meant...
 
 newchat;key:lumberman,v1:vtype:lumberman,weigth:10
-v1;0;Pommes pommes pommes! / Apples apples apples!
+v1;0;Pommes pommes pommes! / Apples, apples, apples!
 v1;30;Pommes, pommes... pommes! / Apples, apples... apples!
-v2;60;Plutôt cidre cidre cidre dans ton cas, non? / You're sure it wasn't cider cider cider?
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / You're sure it wasn't cider, cider, cider?
 
 newchat;key:merchant,v1:vtype:merchant,weigth:10
 v1;0;Quel village minable. / What a petty village.
@@ -349,7 +349,7 @@ v1;60;Et elle est plus grande que celle du village voisin! / And it's bigger tha
 
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Now that we have an inn, we can trade!
-v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / In other words, marchants passing by will help themselves of our resources.
+v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / In other words, marchants passing by will help themselves to our resources.
 v1;80;Tu as toujours été cynique. / You've always been cynical.
 
 

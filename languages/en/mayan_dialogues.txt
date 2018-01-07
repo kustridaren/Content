@@ -39,7 +39,7 @@ v1;120;Yaáxil tak pool, ¡óot na'at! / Instead of protesting about me complain
 newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
 v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / Ah my good friend $targetfirstname! How do you do? 
 v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / Hello $targetfirstname! Doing what I can really, Buisness is bad. 
-v1;60;¿Teech p'aat koonol tuunich ich Hindis? / Have you stopped selling stone to the Hindis? 
+v1;60;¿Teech p'aat koonol tuunich ich Hindis? / Have you stopped selling stone to the Hindu? 
 v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / Yes. Now that independant Japanese miners offered their services, they don't need me anymore. 
 v1;120;Teech ts'a'ah wa ba'ax hach. / You just have to offer them something else. 
 v2;150;¿Teech yaan hun tuukul? / You have any ideas? 
@@ -80,7 +80,7 @@ v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / Haha! If you think 
 newchat;key:wither,weigth:3;
 v1;0;Ich k'aáx in il ich hela'an boox paal. / In the forest i saw a strange black creature. 
 v2;30;¿Haah haahil? Tsool, ¡in k'áat oohel máas! / Really? Describe it to me, I'm curious! 
-v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / Well it was a black skeleton like creature, with two heads at the end of its arms and one on its neck, and it had a look as cold as ice... 
+v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / Well, it was a black skeleton like creature, with two heads at the end of its arms and one on its neck, and it had a look as cold as ice... 
 v2;90;Xi'ix mukuy pu'uch. / That sends chills down my spine. 
 v1;120;Enderwíinik antal k'óoch leti'. / Endermen were attacking it. 
 v2;150;¿Ederwíinik? Letio'ob ma' kuxtal, teech antal wayak'. / Endermen? They don't exist, you must have been dreaming. 
@@ -99,9 +99,9 @@ v1;120;Ka'anal, tuunich ma' yaan meyah. ¡Ta'! / Stop, the stone is useless, adm
 v2;150;¡Mina'an tuunich, a taatáa weneh yáanal eek'! / Without stone, your dad would be sleeping under the stars! 
 
 newchat;key:becomeadult,v1:child,v2:child,weigth:9;
-v1;0;Kin yaan sahakil utia'al suut nohoch máak. / I'm scared to become an adult 
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / I'm scared to become an adult.
 v2;30;¿Ba'ax ten? / Why so? 
-v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / Bah because... There is too much work and we can no longer play... 
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / Bah, because... There is too much work and we can no longer play... 
 v2;90;Teech il, ¡toop! / You'll see, it's great! 
 v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / No... I don't want to I don't want to I don't want to! 
 
@@ -124,7 +124,7 @@ v2;30;Kurx, kurx. He'ebix in a'al, in yaan túulis. / Yes, yes. As said, I have 
 v1;60;¡Huntiich ich k'iin! Haah ma'aldo beet meyahil yiknal teech. / Always punctual! Nice to do buisness with you. 
 v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ All the pleasure is mine. So... 32 logs against 8 iron ingots. Voila! 
 v1;120;Hach dyos bo’otik, yuum. Teech yaan ich ma'aldo k'iin. / Thank you very much Sir. Have a good day. 
-v2;150;Teech, yuum $targetlastname! / To you too Mr. $targetlastname ! 
+v2;150;Teech, yuum $targetlastname! / To you, too, Mr. $targetlastname ! 
 
 newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
 v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / I'll hire you to protect me, in exchange for 48 coins per day. 
@@ -145,7 +145,7 @@ v2;150;Lelo' ma' antal k'abéet. / That won't work.
 newchat;key:zombiepigmen,weigth:6;
 v1;0;¿Teech il chak iik' hach túumben? / Did you see the last storm? 
 v2;30;¡Yéetel he'ebix! Tin koolki' óolt ha', kurx kin yaan sahkil. / And How! Our crops enjoyed the water but it was terrifying. 
-v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / Well I was in the plains, and there was a pig next to me. 
+v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / Well, I was in the plains, and there was a pig next to me. 
 v2;90;¿Yéetel? / And? 
 v1;120;Hun haats' cháak yéetel leti'... Leti' níikil paachil mo'ol... / Lightning struck and... He stood up on his hind legs... 
 v2;150;¿Haah u t'aan? ¿Bixi' il? / Really?! What did it look like? 
@@ -163,29 +163,29 @@ v1;60;¡Wáa! / Indeed!
 newchat;key:village,weigth:8;
 v1;0;Kin tuukul chan kaah il ma'aldo. / I think our village looks nice. 
 v2;30;Wáa. Yaan hach hats' uts. / So do I. It's very artistique. 
-v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / It's all through th stone and our mastery of architecture. 
+v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / It's all through the stone and our mastery of architecture. 
 
 newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
 v1;0;Hach hach nal tia'al hooch, hach kóom k'iin... / So much maize to harvest, so little time... 
-v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / Yeah, i wish we got part of the harvest. 
+v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / Yeah, I wish we got part of the harvest. 
 
 newchat;key:playerorigins,weigth:10;
-v1;0;$name haah ich hela'an máako'ob. / $name is quite strange person. 
+v1;0;$name haah ich hela'an máako'ob. / $name is quite a strange person. 
 v2;30;Haah hach hela'an ka normans. / Even stranger than the Normans. 
 v1;60;¿Kurx utia'al tu'ux taal leti'? / But where did he come from? 
 v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / Not sure, he doesn't seem to be from any culture. 
 
 newchat;key:byzantins,weigth:9;
-v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / I really can't stand those Byzantines, They think they own this land! 
+v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / I really can't stand those Byzantines, they think they own this land! 
 v2;30;¿Yéetel teech il lelo'ob nahils? / And did you see their buildings? 
-v1;60;Kurx kin il lelo'ob, hach hela'am. / Yes i did, Very strange. 
+v1;60;Kurx kin il lelo'ob, hach hela'am. / Yes I did, Very strange. 
 v2;90;¿Pak'lu'um? ¿Ka haah xuul? / Bricks? What's the point!? 
 v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / They even use that glass stuff, just like the Normans do. 
-v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / True, but they seem more advanced then the Indians though. They don't have anything in their windows. 
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / True, but they seem more advanced then the Hindu though. They don't have anything in their windows. 
 
 newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
 v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / Mama! Can I go play further from the village? 
-v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / No my child, I don't want you to get hurt. 
+v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / No, my child, I don't want you to get hurt. 
 v1;60;K'ool utia'al ka? Ma' haah hach k'as táanak. / Hurt from what? Its not dangerous out there. 
 v2;90;U'uy, yaan hach k'as paal táankab... / Listen, there are dangerous creatures out there... 
 v1;120;¿K-ka xook utia'al paal, na'? / W-What kind of creature mama? 
@@ -198,7 +198,7 @@ v1;0;Antal máako'ob ba'ate'el yaan ma'aldo ka in beet. / Becoming a Warrior was
 v2;30;¿He'ebix bin?? / How come? 
 v1;60;Tumen kin páahtal bin aantah ich toop ch’a’ k’uxta’an, hach  náays óol ka hooch ixi'im. / Because I can go out and help fight off enemies, much more fun than harvesting maize. 
 v2;90;Kux kuxtal yaan máas hets'. / But my life is much safer. 
-v1;120;Túun, kux huntiich' antal óot hach k'as. / True but I always wanted a thrill. 
+v1;120;Túun, kux huntiich' antal óot hach k'as. / True, but I always wanted a thrill. 
 
 newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
 v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / I want to be like my dad when I grow up! 
@@ -220,18 +220,18 @@ v2;30;¡Kin léeyli'e'! Yaan alobkin tuukul. / Me too! Best thing that was ever 
 
 newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
 v1;0;To'on k'abeet cháak tia'al ixi'im. / We need rain for the maize. 
-v2;30;Kin óot cháak. / How i wish it would rain. 
+v2;30;Kin óot cháak. / How I wish it would rain. 
 v1;60;Wale' beey payal chi', píixan ts'a'ah to'on hun hooch nohoch lelo' tun. / Maybe if we go pray, the Spirits will grant us a rain fit for making a perfect harvest this year. 
 v2;90;Ma'aldo, bin behla'e' túumen to'on ma' antal tusbel. / Alright, let's go as soon as we aren't too busy. 
 
 newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
-v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / What will we do if a hord of zombies invade? 
-v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / Worry not, i am the best trained warrior in all these lands. 
+v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / What will we do if a horde of zombies invade? 
+v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / Worry not, I am the best trained warrior in all these lands. 
 
 newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
 v1;0;Ix yaan túulis, ma' beet mix ba'al. / Rich Women have it made, they don't do any work. 
 v2;30;Kux, kin tuukul kuxtal beey. / Yeah I wish I was treated that way. 
-v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / I knew i should have married someone with more money. 
+v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / I knew I should have married someone with more money. 
 
 newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
 v1;0;Kin pa'at hayp'éel k'iin kin ahau lela' chan kaah. / I hope that one day I'll rule this village. 
@@ -239,7 +239,7 @@ v2;30;Teech toohol náay, tumen kin antal ka'an ba'a teech. / Keep dreaming then
 v1;60;To'on paakat... to'on paakat. / We'll see... we'll see. 
 
 newchat;key:indians,weigth:8;
-v1;0;Indians il máas hets' óol kex normans, ¿ma'? / The Indians seem much more peaceful than the Normans don't they ? 
+v1;0;Indians il máas hets' óol kex normans, ¿ma'? / The Hindu seem much more peaceful than the Normans don't they ? 
 v2;30;Kux, wale' to'on páathal óot nuuch yiknal letio'ob. / Yeah, maybe we should try to ally with them. 
 v1;60;Hmm... Kux, le túun wale' to'on páathal k'óoch normans, wa Byzantines. / Hmm..Yeah, then maybe together we could raid the Normans, or even the Byzantines. 
 
@@ -247,7 +247,7 @@ newchat;key:gravity,weigth:7;
 v1;0;K'iin yaan kóom waye' lu'um. / Days are much shorter in these lands. 
 v2;30;Ka, yéetel lu'um chíikpahal báab ichmáal. / Yeah, and the ground seems to float sometimes. 
 v1;60;Chichan yaah... yéetel sa'am. / Except for gravel... and the sand. 
-v2;90;Kin k'áat ba'ax ten. / I wonder why ? 
+v2;90;Kin k'áat ba'ax ten. / I wonder why. 
 
 newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
 v1;0;Nu'ukul yéetel ts'oon utia'al obsidiana yaan máas hats'uts. / Obsidian Tools and weapons are the sleekest. 
@@ -257,7 +257,7 @@ v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / Really? I'd love to see one
 
 newchat;key:mayanarchitecture,weigth:7;
 v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / Mayan Architecture is the strongest in all these lands. 
-v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / C'est avec toute la pierre qu'on mine qu'on fait ces beautés. 
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / It is with all the stone that we make that we build these beauties.
 v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / I wonder how many more stone homes we'll make ? 
 v2;90;Chéen k'iin a'al, amikoo./ Only time will tell, friend. 
 
@@ -276,7 +276,7 @@ newchat;key:ahmunghanan,weigth:6;
 v1;0;Thanks to Ah Mun and Ghanan, our harvests are good. Praise be to them!
 v2;30;Let's thank them during prayer.
 v1;80;What can we offer them?
-v2;120;Ne fais pas l'idiot ! Notre sang, bien sûr !  Don't be stupid! Our blood, of course!
+v2;120;Don't be stupid! Our blood, of course!
 
 newchat;key:badweather,weigth:8;
 v1;0;Chac is angry. The weather is bad.
@@ -294,7 +294,7 @@ v1;80;We can certainly not get them offended.
 
 newchat;key:poktapok,weigth:7;
 v1;0;I love Pok-ta-Pok!
-v2;40;Me too! I must say that it is one of our few fun activity here.
+v2;40;Me too! I must say that it is one of our few fun activities here.
 v1;80;It's true. It's boring...and I lost my last ball!
 
 newchat;key:year,weigth:5;
@@ -303,7 +303,7 @@ v2;40;We are good in all areas: mathematics, art, geography...
 
 newchat;key:puja,weigth:6;
 v1;0;Did you go to pray?
-v2;35;Of Course! A real mayan must!
+v2;35;Of Course! A real Mayan must!
 v1;80;Haha! Of course! What a stupid question I asked.
 
 newchat;key:endofworld,weigth:3;
@@ -318,15 +318,15 @@ v2;30;"Xaire? What's ""xaire""?"
 v1;70;A Byzantine greeted me this way.
 v2;110;Come on. You are mayan. Let's greet ourselves in our language.
 v1;150;A real mayan must have knowledge in all areas.
-v2;200;I grant you that it is good to be able to speak several languages__, but you will not talk that way in the village!
+v2;200;I grant you that it is good to be able to speak several languages, but you will not talk that way in the village!
 
 newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
 v1;0;Let's mutilate ourselves during the next prayer.
 v2;40;I have already done so. Not you?
-v1;80;J-J-Je préfère garder mon sang...
+v1;80;I-I-I prefer to keep my blood
 v2;120;And now, you're doing it again! Every time you look decided, you change your mind!
 v1;160;I don't want to!
-v2;200;You refuse to honour our Gods?!
+v2;200;You refuse to honour our gods?!
 
 newchat;key:cacao,weigth:6;
 v1;0;Cocoa is healthy and delicious...
