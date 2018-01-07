@@ -1,10 +1,51 @@
-newchat;key:sun,tag:notraining,weigth:10
+newchat;key:sun,tag:notraining,weigth:18
 v1;0;Agapo ilióloustes méres! / I love sunny days!
 v2;30;Poios den échei? / Who doesn't?
 
-newchat;key:nicevillage,weigth:10
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / I love sunny days!
+v2;30;Poios den échei? / Who doesn't?
+v1;60;Den to káno. / I don't.
+v2;120;Giatí óchi? / Why don't you?
+v1;150;O ílios kaíei! Misó to exoterikó! / The sun burns! I hate the outside!
+v2;180;Eísai san zómpi! / You act like a zombie!
+v1;210;Ísos eímai ... / Maybe I am...
+
+newchat;key:nothomeyet,weigth:6
 v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
-v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Of course, and it is all because of our huge efforts!
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / Of course it is! We've spent so much time working on this place.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / It's almost like home, just like before we came here.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / This is our home now, we just have to accept that.
+v1;120;Xéro, tha to dechtó me ton kairó ... / I know, I'll accept that in time...
+
+newchat;key:ishome,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / Of course it is! We've spent so much time working on this place.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / It's almost like home, just like before we came here.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / This is our home now, we just have to accept that.
+v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / This is our home now, this conversation has made me realize that.
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,notbuilding:tavernbyzantine,weigth:24
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Our wheat and grapes have been growing very well this year.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Yes, the farmers are reporting record harvests and have you tried the wine?
+v1;60;Den échoume tavérna gia na kánoume krasí ... / Um, we have no tavern to make wine...
+v2;120;O ..., tóte ti épaiza chthes ?!/ Oh..., then what did I drink yesterday?!
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,building:tavernbyzantine,weigth:14
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Our wheat and grapes have been growing very well this year.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Yes, the farmers are reporting record harvests and have you tried the wine?
+v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ I have! Our fine Roman wine tastes better than ever!
+v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes. To kalýtero krasí pou eícha poté! / I know, isn't it amazing? I had five whole bottles yesterday. Best wine I have ever had!
+v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ Five whole bottles? You need to slow down man! Even with it being a great season, you risk becoming a drunkard with drinking that much wine!
+v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / I'll be fine once this headache goes away...
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:tavernbyzantine,weigth:2
+v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / We need a tavern to make wine up and running very soon.
+v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / What? Why? Sure, wine is good, but a whole building for wine? We need to get your priorities straight! 
+v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / I tried some Norman cider yesterday. It was horrible! How do those savages like that?
+v2;90;Giatí dokimázete ta potá ton ágrion? Eísai ilíthios?! / Why are you trying the savages' drinks? Are you an idiot?!
+v1;120;Ego eimai... / I am...
+v2;130;Pánta na píneis romaïkí ousía! ROMAÏKÍ OUSÍA! / Always drink Roman stuff! ROMAN STUFF!
 
 newchat;key:harvest,weigth:10
 v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / Wheat is growing very well this year, so are grapes as well. Brilliant, no?
