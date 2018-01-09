@@ -1,15 +1,15 @@
-//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutÃ´t que Notepad
 
 //Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
 
 
-//tag nécéssaire à la réalisation de l'action
+//tag nÃ©cÃ©ssaire Ã  la rÃ©alisation de l'action
 //extra tag required for the destination to be valid
 
 
-priority=50
+priority=42
 
-//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//spÃ©cifier si l'Ã©tiquette ou les phrases pour ce but n'ont pas le code du but lui-mÃªme
 //specify if the label and sentences for this goal is not the name of the goal itself
 sentencekey=makesteelweapons
 
@@ -21,10 +21,10 @@ heldItems=wood,dirt,sod_oak
 
 //chaque action consome tous les objets "input" et produit tous les "output"
 //each action will require and use all the inputs and produce all the outputs
-input=wood,2
-input=dirt,2
+input=wood,1
+input=dirt,1
 output=sod_oak,1
 
-//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//s'il y a plus d'objets dans le batiment que Ã§a, arrÃªter le but
 //if more than that number of item is present in building, stop goal
-buildinglimit=sod_oak,128
+buildinglimit=sod_oak,64
