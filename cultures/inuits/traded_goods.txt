@@ -4,6 +4,7 @@ pathdirt_stable,1,0,0,0,0,true,,0,tradehelp.freeblock
 pathgravel_stable,2,0,0,0,0,true,,0,tradehelp.freeblock
 pathgravelslabs_stable,4,0,0,0,0,true,,0,tradehelp.freeblock
 pathsandstone_stable,16,0,0,0,0,true,,0,tradehelp.freeblock
+dirt,2,1,128,1024,3,false,,0,tradehelp.wood
 wood,2,1,128,1024,3,false,,0,tradehelp.wood
 wood_pine,2,1,0,64,0,false,,0,tradehelp.wood
 wood_birch,2,1,0,64,0,false,,0,tradehelp.wood
