@@ -26,6 +26,7 @@ goal=GetHouseTHResources
 goal=getResourcesForBuild
 goal=makeBread
 goal=carveice
+goal=make_leather
 
 goal=cookpotato
 
