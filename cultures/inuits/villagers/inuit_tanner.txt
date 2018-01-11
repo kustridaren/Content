@@ -12,6 +12,7 @@ texture=textures/entity/inuit/inuit_male7.png
 goal=gorest
 goal=gosocialise
 goal=chat
+goal=make_leather
 goal=makeleatherhelmet_inuit
 goal=makeleatherchest_inuit
 goal=makeleatherboots_inuit
