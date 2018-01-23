@@ -1,10 +1,10 @@
-villager.greeting=Konnichiwa, $name-san! / Bonjour, $name-ji!
+villager.greeting=Konnichiwa, $name-san! / Bonjour, $name-ji !
 villager.greeting=Oi. / Salut !
-villager.greeting=Ogenki desuka, $name-san  / Comment allez-vous, $name-ji?
+villager.greeting=Ogenki desuka, $name-san  / Comment allez-vous, $name-ji ?
 villager.greeting=Kawatta koto aru? / Quoi de neuf ?
 villager.greeting=Hajimemashite / Ravi de faire votre connaissance.
 villager.greeting=Yokoso. / Bienvenue.
-villager.greeting=Gokigenyou. / Comment allez-vous?
+villager.greeting=Gokigenyou. / Comment allez-vous ?
 
 villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Je dois me reposer.
 villager.gorest=A-, mou neru jikan da / Ah, il est l'heure d'aller se coucher.
@@ -16,7 +16,7 @@ villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami nous pro
 villager.BringBackResourcesHome=Cho cho cho... / Boulot boulot boulot...
 villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Je vais aller abattre quelques arbres.
 villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / J'ai besoin de resources.
-villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Je vais planter ces arbustres.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Je vais planter ces arbustes.
 
 villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Tu feras un bon repas pour quelqu'un.
 

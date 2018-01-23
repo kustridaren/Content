@@ -1,11 +1,11 @@
 
-villager.greeting=Ola, $name-ji! / Bonjour, $name-ji!
+villager.greeting=Ola, $name-ji! / Bonjour, $name-ji !
 villager.greeting=U- ka'an yam k'iinal behla'e'. / Le temps est chaud aujourd'hui.
-villager.greeting=Biix men u- pixan ts'aakik teech? / Comment les esprits vous traitent-ils?
+villager.greeting=Biix men u- pixan ts'aakik teech? / Comment les esprits vous traitent-ils ?
 villager.greeting=Ba'ax tumben? / Quoi de neuf?
-villager.greeting=Biix yam teech pamilya? / Comment va votre famille? 
+villager.greeting=Biix yam teech pamilya? / Comment va votre famille ?
 villager.greeting=Pixan tuuxtik gnat k'aaxal. / Les esprits nous envoient de la pluie.
-villager.greeting=Tu'ux yam teech lu'um? / Où est votre terre?
+villager.greeting=Tu'ux yam teech lu'um? / Où est votre terre ?
 mayan_shaman.greeting=Ts'aakik tal teech. / Les esprits vous protègent.
 
 villager.gorest=He'lel bisik na. / Le sommeil me gagne.
@@ -33,7 +33,7 @@ villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / Mon enfant est malade.
 
 
 villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / De la pierre, encore de la pierre.
-villager.ConstructionStepByStep=Meyah meyah meyah. / Bosser, bosser, bosser!
+villager.ConstructionStepByStep=Meyah meyah meyah. / Bosser, bosser, bosser !
 villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / J'ai besoin d'un équipier costaud.
 
 villager.GoPlay=Ichil kolom uk chun su'uk. / Je vais jouer dans l'herbe.
@@ -44,8 +44,8 @@ female.BecomeAdult=Ichil k'a't ha ichki. / Je veux un mari.
 villager.gopray.chosen=Ichil t'an u- orasion. / Je dis la prière.
 mayan_shaman.gopray.chosen=U- orasion tal teech / Ma prière nous protège.
 
-villager.calltoarms=U- k'in yam in-ti'a'al! / Le jour est mien!
-villager.calltoarms=Kin-s-ab u- k'as hun. / Tuez l'homme mauvais!
+villager.calltoarms=U- k'in yam in-ti'a'al! / Le jour est mien !
+villager.calltoarms=Kin-s-ab u- k'as hun. / Tuez l'homme mauvais !
 villager.calltoarms=Ti k'ab! / Aux armes!
 
 villager.MakeTools=Man in-wah a'-b'a'ax. / Achetez mes outils.

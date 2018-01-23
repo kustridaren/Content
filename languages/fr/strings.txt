@@ -26,7 +26,7 @@ ui.largelockedchest=Grand coffre verrouillé
 ui.unlockedchest=Coffre déverrouillé
 ui.largeunlockedchest=Grand coffre déverrouillé
 ui.allchestsunlocked=Tous les coffres de <0> sont maintenant déverrouillés.
-ui.outofstock=Rupture de stock!
+ui.outofstock=Rupture de stock !
 ui.reputationneeded=Réputation requise: <0>
 ui.missingdeniers=Il vous manque <0> deniers.
 ui.missingequipment=Equipement absent
@@ -35,10 +35,10 @@ ui.selling=Vente
 ui.buying=Achat
 ui.buybuilding=Acheter <0> (<1>)
 ui.buybonusbuilding=Demander le bonus: <0>
-ui.sellercoming=<0>: J'arrive tout de suite, $name!
-ui.tradecomplete=<0>: J'espère que vous êtes content de vos achats. Bonne journée!
-ui.sellerboycott=<0>: Jamais plus nous ne commercerons avec vous, bandit!
-ui.sellernotcurrently possible=<0>: Comment pouvez-vous penser à commercer alors que notre village est dévasté?
+ui.sellercoming=<0>: J'arrive tout de suite, $name !
+ui.tradecomplete=<0>: J'espère que vous êtes content de vos achats. Bonne journée !
+ui.sellerboycott=<0>: Jamais plus nous ne commercerons avec vous, bandit !
+ui.sellernotcurrently possible=<0>: Comment pouvez-vous penser à commercer alors que notre village est dévasté ?
 ui.wesell=Nous vendons
 ui.webuy=Nous achetons
 ui.isell=Je vends
@@ -137,11 +137,11 @@ ui.level=amélioration
 ui.notyetbuilt=Pas encore construit
 ui.nbinhabitants=Nombre de résidents: <0>
 ui.wandnocontrol=Vous ne pouvez pas créer ce type de village car vous n'êtes pas reconnu comme chef par la culture <0>.
-ui.control_ok=Vous avez tellement aidé ce village que les gens de culture <0> sont prêts à vous reconnaitre comme un chef! Je peux le rendre officiel et vous permetre de démarrer votre propre village.
+ui.control_ok=Vous avez tellement aidé ce village que les gens de culture <0> sont prêts à vous reconnaitre comme un chef ! Je peux le rendre officiel et vous permetre de démarrer votre propre village.
 ui.control_noreputation=Votre réputation n'est pas encore suffisante pour que vous soyez reconnu comme chef de la culture <0>. Améliorez votre réputation chez nous ou accomplissez des missions d'exception pour atteindre ce statut.
 ui.control_alreadydone=Vous êtes déjà reconnu comme un chef de la culture <0>.
 ui.control_get=Demander à être reconnu comme chef.
-ui.control_gotten=<0>: $name, je vous reconnais officiellement comme digne de diriger des peuples de culture <1>! Vous pouvez maintenant fonder votre propre village.
+ui.control_gotten=<0>: $name, je vous reconnais officiellement comme digne de diriger des peuples de culture <1> ! Vous pouvez maintenant fonder votre propre village.
 ui.selectavillage=Choisissez le village que vous voulez créer
 ui.leadershipstatus=Statut dans les cultures
 ui.leaderin=Vous êtes reconnu comme chef dans la culture <0>. Vous pouvez créer un village que vous contrôlerez.
@@ -235,7 +235,7 @@ quest.conditionsnotmet=Vous n'avez pas rempli toutes les conditions.
 quest.obtained=Obtenu
 quest.lackingcondition=Il vous manque:
 quest.lackinghiddengoods=Vous n'avez pas les objets nécessaires à cette tâche.
-quest.lessthananhourleft=il reste moins d'une heure!
+quest.lessthananhourleft=il reste moins d'une heure !
 quest.timeremaining=Temps restant
 quest.noquestsvisible=Pas de quêtes à lister
 quest.questlist=Quêtes en cours
@@ -459,7 +459,7 @@ panels.mapyellow=Jaune: Construction interdite (glace, blocs artificiels).
 panels.maporange=Orange: Construction interdite car trop proche d'une autre bâtiment ou car le terrain est inaccessible (à cause d'une rivière ou d'un canyon par exemple)
 panels.maplightblue=Bleu clair: Eau.
 panels.mapbrown=Marron: Autres terrains (trop hauts ou trop bas, etc.).
-panels.unreachablebuilding=inaccessible!
+panels.unreachablebuilding=inaccessible !
 panels.merchantlist=Liste des marchands
 panels.capacity=Capacité
 panels.nbnightsin=Dans le village depuis <0> nuit(s).
@@ -475,14 +475,14 @@ panels.villageculture=Villages de culture <0>
 panels.military=Militaire
 panels.planningraid=Raid planifié
 panels.raidinprogress=Raid en cours
-panels.underattack=Village attaqué!
+panels.underattack=Village attaqué !
 panels.offense=Offense: <0>
 panels.defense=Défense: <0>
 panels.offenselong=Forces offensives: <0>
 panels.defenselong=Forces défensives: <0>
 panels.raidinprogresslong=Raid de <0> en cours. Le raid a commencé il y a <1> heure(s).
 panels.planningraidlong=Raid de <0> planifié. La planification a commencé il y a <1> heure(s).
-panels.underattacklong=Le village est attaqué par <0> ennemis de force <1> venant de <2>!
+panels.underattacklong=Le village est attaqué par <0> ennemis de force <1> venant de <2> !
 panels.villagefighters=Combattants du village
 panels.attackers=Agresseurs
 panels.defender=Défenseur
@@ -746,19 +746,19 @@ actions.bottomoftheworld_success=Il semblerait que vous ne puissiez pas creuser 
 actions.topoftheworld_success=Il semblerait que vous ne puissiez pas vous élever plus haut. C'est surement le sommet du ciel.
 
 actions.borehole_nblineok=<0> blocs du manteau sont correctement exposés au ciel. Il vous en faut 25 formant un carré de 5x5.
-actions.borehole_success=Vous avez réussit à creuser le trou de forage!
+actions.borehole_success=Vous avez réussit à creuser le trou de forage !
 
 actions.boreholetnt_success=Suffisament de TNT est en place. Vous pouvez la détonner.
 actions.boreholetnt_nbtnt=<0> blocs de TNT ont été plaçés et couverts d'obsidiennes. Il vous en faut 20 au total.
 
 actions.boreholetntlit_success=Vous avez allumé la TNT. Observez le résultat et allez voir l'alchimiste.
 
-actions.thevoid_success=Vous avez contemplé le Vide!
+actions.thevoid_success=Vous avez contemplé le Vide !
 
 actions.enchantmenttable_success=Vous avez construit une table d'enchantement près du Sadhu.
 
-actions.mayan_siege_start=La pyramide est prise d'assaut! <0> ghasts, <1> incendiaires et <2> squelettes vous attaquent. Vainquez-les.
-actions.mayan_siege_success=Vous avez vaincu les forces attaquant la pyramide!
+actions.mayan_siege_start=La pyramide est prise d'assaut ! <0> ghasts, <1> incendiaires et <2> squelettes vous attaquent. Vainquez-les.
+actions.mayan_siege_success=Vous avez vaincu les forces attaquant la pyramide !
 actions.mayan_siege_update=Il reste <0> ghast(s), <1> incendiaire(s) et <2> squelettes.
 
 info.culturetitle=Cultures
@@ -780,13 +780,13 @@ culturelanguage.moderate=Modéré
 culturelanguage.beginner=Débutant
 culturelanguage.minimal=Minime
 
-weapon.criticalstrike=Coup critique! Dégats x<0>!
+weapon.criticalstrike=Coup critique ! Dégats x<0> !
 
 negationwand.villagelocked=Le/la <0> est toujours verrouillé(e). Vous devez tuer tous les villageois mâles adultes avant de pouvoir le détruire.
-negationwand.confirmmessage=Etes vous sûrs de vouloir détruire ce/cette <0>? Les bâtiments resteront, mais tous les villageois seront détruits définitivement.
+negationwand.confirmmessage=Etes vous sûrs de vouloir détruire ce/cette <0> ? Les bâtiments resteront, mais tous les villageois seront détruits définitivement.
 negationwand.confirm=Confirmer
 negationwand.cancel=Annuler
-negationwand.destroyed=Le/la <0> a été détruit(e)! Ses bâtiments ne sont plus que des coquilles vides et aucun villageois n'y reviendra.
+negationwand.destroyed=Le/la <0> a été détruit(e) ! Ses bâtiments ne sont plus que des coquilles vides et aucun villageois n'y reviendra.
 
 relation.excellent=Excellentes
 relation.verygood=Très bonnes
@@ -803,9 +803,9 @@ relation.chilly=Froides
 relation.neutral=Neutres
 
 raid.planningstarted=<0> aurait commencé à planifier un raid sur <1>.
-raid.started=<0> a commencé son raid sur <1>! <2> combattant(s) en font partis.
-raid.raidsuccesfull=<0> a réussit son raid sur <1>, pillant <2> resources!
-raid.raidfailed=Le raid de <0> sur <1> a échoué!
+raid.started=<0> a commencé son raid sur <1> ! <2> combattant(s) en font partis.
+raid.raidsuccesfull=<0> a réussit son raid sur <1>, pillant <2> resources !
+raid.raidfailed=Le raid de <0> sur <1> a échoué !
 raid.nothing=aucun
 raid.historysuccess=Raid réussi sur <0>. Butin: <1>
 raid.historyraided=Pillé par <0>. Butin: <1>
@@ -856,13 +856,13 @@ pujas.god0=A Hanuman - pour la vitesse
 pujas.god1=A Shiva - pour la force
 pujas.god2=A Lakshmi - pour la chance
 pujas.god3=A Ganesh - pour la précision
-pujas.priestcoming=<0>: Vous voulez commander un puja? Votre dévotion est admirable!
+pujas.priestcoming=<0>: Vous voulez commander un puja ? Votre dévotion est admirable !
 pujas.offeringslot=Mettez une offrande pour les Dieux.
 pujas.offeringslot2=Ils n'acceptent pas tout. Expérimentez.
 pujas.moneyslot=Mettez de l'argent pour le pandit.
 pujas.toolslot=Mettez l'outil à enchanter.
 
-sacrifices.priestcoming=<0>: Vous avez besoin de sacrifier aux Dieux? C'est sage de les appaiser.
+sacrifices.priestcoming=<0>: Vous avez besoin de sacrifier aux Dieux ? C'est sage de les appaiser.
 sacrifices.panditfee=Pour le chamane
 sacrifices.offering=Sacrifice
 mayan.god0=A Ah Puch - pour la survie
@@ -975,7 +975,7 @@ achievement.scipio.desc=Détruisez un village avec la baguette de négation
 achievement.attila.name=Attila
 achievement.attila.desc=Atteignez la réputation "fléau de Dieu" dans trois cultures
 
-achievement.cheers.name=A la santé de Minecraft!
+achievement.cheers.name=A la santé de Minecraft !
 achievement.cheers.desc=Buvez un alcool Millénaire
 achievement.hired.name=Main d'œuvre
 achievement.hired.desc=Embauchez un villageois
@@ -1091,7 +1091,7 @@ config.page.bonus.desc=Bonus pour les joueurs ayant contribué à Millénaire (t
 config.bonus_code.label=Code bonus
 config.bonus_code.desc=Code pour activer le bonus. Récupéré automatiquement sur internet si connexion possible.
 
-config.validbonuscode=Code valide! Le bonus est activé.
+config.validbonuscode=Code valide ! Le bonus est activé.
 config.invalidbonuscode=Code non valide. Veuillez le vérifier.
 
 
@@ -1101,7 +1101,7 @@ tradehelp.goodsbought=Marchandises achetées
 tradehelp.buyingprice=Achat:
 tradehelp.sellingprice=Vente:
 tradehelp.helptitle=Généralités sur le commerce
-tradehelp.helptext=Vous pouvez acheter dans chaque magasin les marchandises que le village a en stock. A part quelques blocs "gratuits" (comme les chemins) ou objets spéciaux (les baguettes), les marchandises proposées ont été produites par le village et le village les "perdra" si vous les achetez, contrairement au commerce avec les villages Minecraft.<ret><ret>Les villageois produisent la pluspart des biens dont ils ont besoin, mais leur vendre permet souvent d'accélérer le développement du village.
+tradehelp.helptext=Vous pouvez acheter dans chaque magasin les marchandises que le village a en stock. À part quelques blocs "gratuits" (comme les chemins) ou objets spéciaux (les baguettes), les marchandises proposées ont été produites par le village et le village les "perdra" si vous les achetez, contrairement au commerce avec les villages Minecraft.<ret><ret>Les villageois produisent la pluspart des biens dont ils ont besoin, mais leur vendre permet souvent d'accélérer le développement du village.
 
 tradehelp.freeblock=Ces types de blocs sont produits "gratuitement" par le village et donc disponibles en quantités illimités.
 tradehelp.wood=Les villageois produisent du bois grâce aux bosquets. Ils s'en servent pour construire.
@@ -1116,11 +1116,11 @@ tradehelp.carrot=Les villageois utilisent les carrotes pour nourrir leurs cochon
 tradehelp.feathers=Les plumes servent à faire des flêches.
 tradehelp.generictools=Les outils de différents niveaux rendent les villageois plus efficaces.
 tradehelp.genericweapon=Les armes et armures de différents niveaux rendent les villageois plus puissants.
-tradehelp.purse=Les bourses permettent de stoquer des deniers. Elles sont toujours disponibles.
+tradehelp.purse=Les bourses permettent de stocker des deniers. Elles sont toujours disponibles.
 tradehelp.wand=Les baguettes d'invocation parmettent de créer de nouveaux villages. Elles sont toujours disponibles.
 tradehelp.parchments=Les parchemins donnent des informations sur Millénaire. Ils sont toujours disponibles.
 
-tradehelp.normanwhitewool=La laine blanche sert dans certains bâtiments et est nécéssaire à la confection de tapisseries dans les forts normands.
+tradehelp.normanwhitewool=La laine blanche sert dans certains bâtiments et est nécessaire à la confection de tapisseries dans les forts normands.
 tradehelp.normantapestrywool=Les laines grises, gris clair, noires et brunes servent à la dame à fabriquer des tapisseries.
 tradehelp.normanleather=Les moines normands utilisent du cuir pour fabriquer des livres.
 tradehelp.normantools=Les forgerons normands utilisent du fer pour produire des armes et des outils normands aux qualités exceptionelles.
@@ -1146,10 +1146,10 @@ tradehelp.byzantinewheat=Les villageois byzantins fabriquent du pain et nourriss
 
 tradehelp.hinditools=Les forgerons indiens utilisent du fer pour produire des outils et des armures en fer.
 tradehelp.hindigenericfood=L'accès à différents types de nourriture aide les enfants à grandir plus vite. Attention, les indiens ne mangent ni boeuf ni porc.
-tradehelp.hindigenericfoodsweet=Les desserts augmentent aident les villageois à concevoir des enfants. Les villageois indiens ne boivent pas d'alcool.
+tradehelp.hindigenericfoodsweet=Les desserts aident les villageois à concevoir des enfants. Les villageois indiens ne boivent pas d'alcool.
 tradehelp.hindirasgulla=Les indiens produisent de délicieuses rasgullas à partir de sucre. Elles guérissent et régénèrent le joueur et aident les villageois à avoir des enfants. Elles donnent également un bonus "Vitesse" temporaire.
 tradehelp.hindicurry=Les indiens cuisinent des caris végétariens à base de riz et curcuma et des caris de poulet en ajoutant un poulet. Ces aliments nourrissent le joueur et aident les enfants à grandir. Les caris de poulet donnent également un bonus "Résistance au feu" temporaire.
-tradehelp.hindibricks=Les indiens produisent des briques de terre cuitent au soleil qu'ils cuisent pour fabriquer des briques cuites. Vous pouvez en fabriquez vous-même en achetant un moule.
+tradehelp.hindibricks=Les indiens produisent des briques de terre cuites au soleil qu'ils cuisent pour fabriquer des briques cuites. Vous pouvez en fabriquez vous-même en achetant un moule.
 tradehelp.hindistatue=Les sculpteurs indiens produisent ces bas-relief de dieux hindous qui ornent les temples indiens.
 
 tradehelp.japanesegold=Les japonais utilisent de l'or pour décorer certains bâtiments

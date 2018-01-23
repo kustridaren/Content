@@ -24,7 +24,7 @@ smith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kos
 armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Les outils byzantins sont les meilleurs au monde.
 armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / N'essaie pas d'attaquer quelqu'un armé par moi.
 
-wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Notre tache est de contrôler nos hommes.
+wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Notre tâche est de contrôler nos hommes.
 wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / Les femmes n'ont le droit de rien faire ici...
 wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / Il est temps de s'occuper des travaux ménagers.
 wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / C'est tout ce qu'on me laisse faire ici.
@@ -38,7 +38,7 @@ patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirogr
 pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Mes livres sont parmi les meilleurs manuscrits ici.
 
 lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera . / Ma femme sera fière de tout ce bois que je ramène.
-lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Tous nos bâtiments ont besoin de bois, et c'est mon métier de le trouver!
+lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Tous nos bâtiments ont besoin de bois, et c'est mon métier de le trouver !
 lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Voici de jolis arbustes.
 lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / Bientôt il y aura un arbre magnifique ici. Et je vais le couper.
 
@@ -59,6 +59,6 @@ keeperPine_byzantine.greeting=Afto to kryo einai tsouxtero. Den anarwtiemai pou 
 
 keeperTropical_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Qui a pu penser qu'il fallait un garde posté ici...
 keeperTropical_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / C'est si morne ici, il ne se passe jamais rien...
-keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Salutations voyageur, comment t'es tu retrouvé dans cet endroit perdu?
+keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Salutations voyageur, comment t'es tu retrouvé dans cet endroit perdu ?
 keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Hindi' zoun se afth th gh. / Il fait tellement chaud ici. Je ne comprends pas comment les indiens peuvent y vivre.
-keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / Avez-vous vu les étranges mayas? Leurs bâtiments semblent devoir s'effondrer à chaque seconde.
+keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / Avez-vous vu les étranges mayas ? Leurs bâtiments semblent devoir s'effondrer à chaque seconde.

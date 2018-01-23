@@ -18,7 +18,7 @@ v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / Ne nou
 v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / Oh oui, eux... je les déteste. Comment peut-on être aussi prétentieux !
 
 newchat;key:player,weigth:10;
-v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / Ca manque de visiteurs, par ici.
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / Ça manque de visiteurs, par ici.
 v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / Oui, il n'y a que $name et d'autres personnes perdues...
 v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / En parlant de $name, tu ne le trouves pas de plus en plus étrange et fatigué ?
 v2;90;Kux. Leti' p'aax wa'atal. / C'est vrai. Il devrait se reposer un peu.
@@ -108,13 +108,13 @@ v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / Non... j'veux pa
 newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
 v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / Papa et maman sont trop injustes ! Il faut toujours qu'on range notre chambre !
 v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / Ouais ! On devrait se rebeller et réclamer un meilleur traitement !
-v1;60;¡To'on il! ¡Teech na'! / A l'assaut ! Cap sur maman !
+v1;60;¡To'on il! ¡Teech na'! / À l'assaut ! Cap sur maman !
 
 newchat;key:japanese,v1:adult,weigth:8;
 v1;0;Eh, $taargetfirstname, il. / Hé, $targetfirstname, regarde ça.
 v2;30;¡Báaxal t'aan ts'oons! ¿Tu'ux teech antal? / Drôle d'épée ! Et drôle d'arc ! Où t'es tu procuré ça ?
 v1;60;Haah yumi yéetel tachi. Utia'al Japanese máaskab. / C'est un arc Yumi et un Tachi. De l'armement japonais.
-v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / C'est beau et ça a l'air efficace. Ça coûte cher ?
+v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / C'est beau et ça à l'air efficace. Ça coûte cher ?
 v1;120;¡Kurx! ¡In ch'iin 2 sak taak'in yiknal yumi! / Diable oui ! J'ai dû gaspiller 2 pièces d'argent rien que pour l'arc !
 v2;150;¡Oohh! Teech líik'es hach táanil maan. / Woah ! Tu as dû beaucoup économiser avant de les acheter.
 
@@ -257,7 +257,7 @@ v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / Vraiment ? J'adorerais en v
 
 newchat;key:mayanarchitecture,weigth:7;
 v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / L'architecture maya est la plus solide du monde.
-v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / It is with all the stone we mine to make these beauties.
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / C'est grâce à toutte la pierre que nous minons pour faire ces beautés.
 v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / Je me demande combien de maisons de pierre de plus fera-t-on ?
 v2;90;Chéen k'iin a'al, amikoo./ Seul le temps nous le dira, mon ami.
 
