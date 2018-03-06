@@ -1,10 +1,10 @@
-brickkiln_A0=Tegelugn
+﻿brickkiln_A0=Tegelugn
 chiefhouse_A0=Chefs Hus
 fort_A0=Fort
 grove_A0=Skogsdunge
 lumbermanhouse_A0=Timmermanshus
 paddy_A0=Risodling
-pandithouse_A0=Prasthus
+pandithouse_A0=Prästhus
 peasanthouse_A0=Farmhus
 peasanthouse_B0=Farmhus
 peasanthouse_C0=Farmhus
@@ -23,8 +23,8 @@ quarry_B0=Stenbrott
 spicegarden_A0=Kryddodling
 scultorhouse_A0=Ateljé
 archives_A0=Arkiv
-guesthouse_A0=Gasthus
-inn_A0=Vardshus
+guesthouse_A0=Gästhus
+inn_A0=Värdshus
 palace_A0=Palats
 
 

@@ -1,4 +1,4 @@
-0;Främling;Vi litar inte på främlingar så lätt. Så upp för dej.
+﻿0;Främling;Vi litar inte på främlingar så lätt. Så uppför dej.
 4*64;Bekant ansikte;Vi har sett dej här förut men det betyder inte att vi litar på dej.
 16*64;Återkommande besökare;Hur har din resa varit $name?
 64*64;Favorit handlare;Åh, $name, du har kommit en lång väg i ögona på folket i byn.
