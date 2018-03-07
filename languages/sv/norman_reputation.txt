@@ -1,9 +1,9 @@
-0;Framling;Vi är försiktiga med främlingar här, nykommling. Men var snäll mot oss så kommer folk vara gästvanliga.
-4*64;Känd;Vi har sett dig här förut, och inga kycklingar har försvunnit. Fortsätt så här så kommer vi bli vänner.
-16*64;Vanlig besökare;Välkommen, $name! Det är kul att du är här igen.
-64*64;Favorit handlare;Ah, $name! Alla byborna längtade efter att du skulle komma tillbaka.
-2*64*64;Vän till byn;Vi Normaner är inte kända for att lätt lita på folk, men min goda vän $name, du har verkligen visat att vi kan lita pa dig!
-8*64*64;En av oss;Det är alltid kul att se dig $name. Du må komma fran fjärran land, men du är verkligen en av oss nu.
--64;Olägenhet;Vi håller koll på dig, $name. Var på din vakt.
--4*64;Obehaglig främling;Du har verkligen varit en olägenhet här. Var glad att vi inte har sparkat ut dig än.
--16*64;Allmän fiende;Din närvaro här är nästan inte uthärdlig längre. Ett felsteg och du är körd.
+ï»¿0;FrÃ¤mling;Vi Ã¤r fÃ¶rsiktiga med frÃ¤mlingar hÃ¤r, nykommling. Men var snÃ¤ll mot oss sÃ¥ kommer folk vara gÃ¤stvanliga.
+4*64;KÃ¤nd;Vi har sett dig hÃ¤r fÃ¶rut, och inga kycklingar har fÃ¶rsvunnit. FortsÃ¤tt sÃ¥ hÃ¤r sÃ¥ kommer vi bli vÃ¤nner.
+16*64;Vanlig besÃ¶kare;VÃ¤lkommen, $name! Det Ã¤r kul att du Ã¤r hÃ¤r igen.
+64*64;Favorit handlare;Ah, $name! Alla byborna lÃ¤ngtade efter att du skulle komma tillbaka.
+2*64*64;VÃ¤n till byn;Vi Normaner Ã¤r inte kÃ¤nda for att lÃ¤tt lita pÃ¥ folk, men min goda vÃ¤n $name, du har verkligen visat att vi kan lita pa dig!
+8*64*64;En av oss;Det Ã¤r alltid kul att se dig $name. Du mÃ¥ komma fran fjÃ¤rran land, men du Ã¤r verkligen en av oss nu.
+-64;OlÃ¤genhet;Vi hÃ¥ller koll pÃ¥ dig, $name. Var pÃ¥ din vakt.
+-4*64;Obehaglig frÃ¤mling;Du har verkligen varit en olÃ¤genhet hÃ¤r. Var glad att vi inte har sparkat ut dig Ã¤n.
+-16*64;AllmÃ¤n fiende;Din nÃ¤rvaro hÃ¤r Ã¤r nÃ¤stan inte uthÃ¤rdlig lÃ¤ngre. Ett felsteg och du Ã¤r kÃ¶rd.

@@ -1,9 +1,9 @@
-0;Framling;Vi är inte vana att ha främlingar i var avlägsna by.
-4*64;Känd;än så länge har du inte gjort något dumt.
-16*64;Vanlig besökare;Namaste, $name! Vilka nyheter för du med dig?
+ï»¿0;Framling;Vi Ã¤r inte vana att ha frÃ¤mlingar i var avlÃ¤gsna by.
+4*64;KÃ¤nd;Ã¤n sÃ¥ lÃ¤nge har du inte gjort nÃ¥got dumt.
+16*64;Vanlig besÃ¶kare;Namaste, $name! Vilka nyheter fÃ¶r du med dig?
 64*64;Favorit handlare;Valkommen tillbaka, $name. Vad har du med dig att handla med till oss?
-2*64*64;Vän till byn;$name-ji, vi tycker alla om dig har i byn.
-8*64*64;En av oss;Jag trodde aldrig att jag skulle leva den dagen en utlänning blev accepterad i byn, men $name-ji, du är en av oss nu!
--64;Olägenhet;Vi tycker inte om främlingar här, särskilt inte din sort.
--4*64;Obehaglig främling;Den som uppfostrade dig gjorde ett dåligt jobb. Vi hoppas all att du snart är borta.
--16*64;Allmän fiende;Varje morgon ber jag till gud att jag slipper se ditt ansikte igen.
+2*64*64;VÃ¤n till byn;$name-ji, vi tycker alla om dig har i byn.
+8*64*64;En av oss;Jag trodde aldrig att jag skulle leva den dagen en utlÃ¤nning blev accepterad i byn, men $name-ji, du Ã¤r en av oss nu!
+-64;OlÃ¤genhet;Vi tycker inte om frÃ¤mlingar hÃ¤r, sÃ¤rskilt inte din sort.
+-4*64;Obehaglig frÃ¤mling;Den som uppfostrade dig gjorde ett dÃ¥ligt jobb. Vi hoppas all att du snart Ã¤r borta.
+-16*64;AllmÃ¤n fiende;Varje morgon ber jag till gud att jag slipper se ditt ansikte igen.

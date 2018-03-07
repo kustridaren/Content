@@ -1,4 +1,4 @@
-//Norman buildings already have French names
+Ôªø//Norman buildings already have French names
 //This file's sole purpose is to "block" an eventual fallback language from showing
 
 abbey_A0=Kloster
@@ -6,7 +6,7 @@ archives_A0=Arkiv
 armoury_A0=Arsenal
 bakery_A0=Bageri
 carpenterhouse_A0=Snickarhus
-cattlefarm_A0=BoskapsgÂrd
+cattlefarm_A0=Boskapsg√•rd
 church_A0=Kapell
 church_A2=Kyrka
 farm_A0=Farm
@@ -17,12 +17,12 @@ grove_A0=Skogsdunge
 grove_B0=Skogsdunge
 grove_C0=Skogsdunge
 guardhouse_A0=Vakthus
-guesthouse_A0=G‰sthus
+guesthouse_A0=G√§sthus
 guildhouse_A0=Skrahus
-inn_A0=V‰rdshus
+inn_A0=V√§rdshus
 lumbermanhut_A0=Timmermanshus
 lumbermanhut_B0=Timmermanshus
-manor_A0=GÂrd
+manor_A0=G√•rd
 market_A0=Marknad
 pigfarm_A0=Grisfarm
 playerestate_A0=Spelarens hus
@@ -31,13 +31,13 @@ playerlargefield_A0=Spelarens stora mark
 playerlargehouse_A0=Spelarens stora hus
 playersmallfield_A0=Spelarens lilla mark
 playersmallhouse_A0=Spelarens lilla hus
-presbytery_A0=Pr‰sthus
+presbytery_A0=Pr√§sthus
 quarry_A0=Stenbrott
-sheepchickenfarm_A0=FÂr- och kycklingfarm
+sheepchickenfarm_A0=F√•r- och kycklingfarm
 tavern_A0=Taverna
 townhall_A0=Stadshus
 townhallagricole_A0=Jordbruks stadshus
 watchtower_A0=Utkikstorn
-fountain_A0=Font‰n
-largefountain_A0=Stor font‰n
+fountain_A0=Font√§n
+largefountain_A0=Stor font√§n
 well_A0=Brunn
